@@ -1,0 +1,97 @@
+[37m17:26:04.812 > S[37mcanning...
+[37m17:26:04.895 > I[37m2C device found at address 0x52  !
+[37m17:26:04.936 > d[37mone
+17:26:04.936 > 
+[37m17:26:08.936 > S[37mcanning...
+[37m17:26:09.020 > I[37m2C device found at address 0x52  !
+[37m17:26:09.061 > d[37mone
+17:26:09.062 > 
+[37m17:26:13.061 > S[37mcanning...
+[37m17:26:13.145 > I[37m2C device found at address 0x52  !
+[37m17:26:13.186 > d[37mone
+17:26:13.186 > 
+[37m17:26:17.186 > S[37mcanning...
+[37m17:26:17.270 > I[37m2C device found at address 0x52  !
+[37m17:26:17.311 > d[37mone
+17:26:17.312 > 
+[37m17:26:21.312 > S[37mcanning...
+[37m17:26:21.395 > I[37m2C device found at address 0x52  !
+[37m17:26:21.436 > d[37mone
+17:26:21.436 > 
+[37m17:26:25.437 > S[37mcanning...
+[37m17:26:25.520 > I[37m2C device found at address 0x52  !
+[37m17:26:25.561 > d[37mone
+17:26:25.561 > 
+[37m17:26:27.214 > E[37mSP-ROM:esp32s3-20210327
+[37m17:26:27.272 > E[37mSP-ROM:esp32s3-20210327
+[37m17:26:27.279 > B[37muild:Mar 27 2021
+17:26:27.279 > rst:0x1 (POWERON),boot:0x2a (SPI_FAST_FLASH_B[37mO[37mOT)
+17:26:27.284 > SPIWP:0xee
+17:26:27.284 > mode:DIO, clock div:1
+17:26:27.284 > load:0x3fcd0108,len:0x3[37m9[37mc
+17:26:27.290 > load:0x403b6000,len:0x9a4
+17:26:27.290 > load:0x403ba000,len:0x2868
+17:26:27.290 > entry[37m [37m0x403b61c0
+[37m17:26:27.353 > E[37mSP-ROM:esp32s3-20210327
+[37m17:26:27.361 > B[37muild:Mar 27 2021
+17:26:27.362 > rst:0xf (BROWNOUT_RST),boot:0x2a (SPI_FAST_FL[37mA[37mSH_BOOT)
+17:26:27.366 > SPIWP:0xee
+17:26:27.366 > mode:DIO, clock div:1
+17:26:27.366 > load:0x3fcd0108,le[37mn[37m:0x39c
+17:26:27.371 > load:0x403b6000,len:0x9a4
+17:26:27.371 > load:0x403ba000,len:0x2868
+[37m17:26:27.375 > e[37mntry 0x403b61c0
+[37m17:26:27.448 > 
+[37m17:26:27.448 > I2C Scanner
+17:26:27.448 > Scanning...
+[37m17:26:27.530 > I[37m2C device found at address 0x52  !
+[37m17:26:27.571 > d[37mone
+17:26:27.571 > 
+[37m17:26:31.572 > S[37mcanning...
+[37m17:26:31.655 > I[37m2C device found at address 0x52  !
+[37m17:26:31.696 > d[37mone
+17:26:31.696 > 
+[37m17:26:35.697 > S[37mcanning...
+[37m17:26:35.779 > I[37m2C device found at address 0x52  !
+[37m17:26:35.821 > d[37mone
+17:26:35.821 > 
+[37m17:26:39.821 > S[37mcanning...
+[37m17:26:39.905 > I[37m2C device found at address 0x52  !
+[37m17:26:39.946 > d[37mone
+17:26:39.946 > 
+[37m17:26:43.947 > S[37mcanning...
+[37m17:26:44.030 > I[37m2C device found at address 0x52  !
+[37m17:26:44.070 > d[37mone
+17:26:44.071 > 
+[37m17:26:48.072 > S[37mcanning...
+[37m17:26:48.155 > I[37m2C device found at address 0x52  !
+[37m17:26:48.196 > d[37mone
+17:26:48.196 > 
+[37m17:26:52.197 > S[37mcanning...
+[37m17:26:52.279 > I[37m2C device found at address 0x52  !
+[37m17:26:52.320 > d[37mone
+17:26:52.321 > 
+[37m17:26:56.322 > S[37mcanning...
+[37m17:26:56.405 > I[37m2C device found at address 0x52  !
+[37m17:26:56.446 > d[37mone
+17:26:56.446 > 
+[37m17:27:00.447 > S[37mcanning...
+[37m17:27:00.529 > I[37m2C device found at address 0x52  !
+[37m17:27:00.571 > d[37mone
+17:27:00.571 > 
+[37m17:27:04.571 > S[37mcanning...
+[37m17:27:04.654 > I[37m2C device found at address 0x52  !
+[37m17:27:04.696 > d[37mone
+17:27:04.696 > 
+[37m17:27:08.696 > S[37mcanning...
+[37m17:27:08.779 > I[37m2C device found at address 0x52  !
+[37m17:27:08.821 > d[37mone
+17:27:08.821 > 
+[37m17:27:12.822 > S[37mcanning...
+[37m17:27:12.905 > I[37m2C device found at address 0x52  !
+[37m17:27:12.946 > d[37mone
+17:27:12.947 > 
+[37m17:27:16.946 > S[37mcanning...
+[37m17:27:17.029 > I[37m2C device found at address 0x52  !
+[37m17:27:17.070 > d[37mone
+17:27:17.071 > 

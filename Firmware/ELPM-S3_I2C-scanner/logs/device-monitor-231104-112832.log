@@ -1,0 +1,468 @@
+[37m11:28:32.822 > S[37mcanning...
+[37m11:28:32.906 > I[37m2C device found at address 0x52  !
+[37m11:28:32.947 > d[37mone
+11:28:32.947 > 
+[37m11:28:36.947 > S[37mcanning...
+[37m11:28:37.030 > I[37m2C device found at address 0x52  !
+[37m11:28:37.072 > d[37mone
+11:28:37.072 > 
+[37m11:28:41.073 > S[37mcanning...
+[37m11:28:41.156 > I[37m2C device found at address 0x52  !
+[37m11:28:41.197 > d[37mone
+11:28:41.197 > 
+[37m11:28:45.198 > S[37mcanning...
+[37m11:28:45.281 > I[37m2C device found at address 0x52  !
+[37m11:28:45.322 > d[37mone
+11:28:45.322 > 
+[37m11:28:49.322 > S[37mcanning...
+[37m11:28:49.406 > I[37m2C device found at address 0x52  !
+[37m11:28:49.447 > d[37mone
+11:28:49.447 > 
+[37m11:28:53.448 > S[37mcanning...
+[37m11:28:53.530 > I[37m2C device found at address 0x52  !
+[37m11:28:53.572 > d[37mone
+11:28:53.572 > 
+[37m11:28:57.572 > S[37mcanning...
+[37m11:28:57.656 > I[37m2C device found at address 0x52  !
+[37m11:28:57.697 > d[37mone
+11:28:57.697 > 
+[37m11:29:01.698 > S[37mcanning...
+[37m11:29:01.780 > I[37m2C device found at address 0x52  !
+[37m11:29:01.822 > d[37mone
+11:29:01.822 > 
+[37m11:29:05.823 > S[37mcanning...
+[37m11:29:05.906 > I[37m2C device found at address 0x52  !
+[37m11:29:05.947 > d[37mone
+11:29:05.947 > 
+[37m11:29:09.947 > S[37mcanning...
+[37m11:29:10.031 > I[37m2C device found at address 0x52  !
+[37m11:29:10.072 > d[37mone
+11:29:10.072 > 
+[37m11:29:14.073 > S[37mcanning...
+[37m11:29:14.155 > I[37m2C device found at address 0x52  !
+[37m11:29:14.196 > d[37mone
+11:29:14.197 > 
+[37m11:29:18.197 > S[37mcanning...
+[37m11:29:18.281 > I[37m2C device found at address 0x52  !
+[37m11:29:18.322 > d[37mone
+11:29:18.323 > 
+[37m11:29:22.322 > S[37mcanning...
+[37m11:29:22.405 > I[37m2C device found at address 0x52  !
+[37m11:29:22.446 > d[37mone
+11:29:22.446 > 
+[37m11:29:26.447 > S[37mcanning...
+[37m11:29:26.531 > I[37m2C device found at address 0x52  !
+[37m11:29:26.572 > d[37mone
+11:29:26.572 > 
+[37m11:29:30.573 > S[37mcanning...
+[37m11:29:30.656 > I[37m2C device found at address 0x52  !
+[37m11:29:30.697 > d[37mone
+11:29:30.697 > 
+[37m11:29:34.697 > S[37mcanning...
+[37m11:29:34.780 > I[37m2C device found at address 0x52  !
+[37m11:29:34.822 > d[37mone
+11:29:34.822 > 
+[37m11:29:38.822 > S[37mcanning...
+[37m11:29:38.905 > I[37m2C device found at address 0x52  !
+[37m11:29:38.947 > d[37mone
+11:29:38.947 > 
+[37m11:29:42.947 > S[37mcanning...
+[37m11:29:43.031 > I[37m2C device found at address 0x52  !
+[37m11:29:43.072 > d[37mone
+11:29:43.072 > 
+[37m11:29:47.073 > S[37mcanning...
+[37m11:29:47.155 > I[37m2C device found at address 0x52  !
+[37m11:29:47.196 > d[37mone
+11:29:47.196 > 
+[37m11:29:51.197 > S[37mcanning...
+[37m11:29:51.280 > I[37m2C device found at address 0x52  !
+[37m11:29:51.322 > d[37mone
+11:29:51.322 > 
+[37m11:29:55.322 > S[37mcanning...
+[37m11:29:55.405 > I[37m2C device found at address 0x52  !
+[37m11:29:55.447 > d[37mone
+11:29:55.447 > 
+[37m11:29:59.447 > S[37mcanning...
+[37m11:29:59.531 > I[37m2C device found at address 0x52  !
+[37m11:29:59.572 > d[37mone
+11:29:59.572 > 
+[37m11:30:03.572 > S[37mcanning...
+[37m11:30:03.655 > I[37m2C device found at address 0x52  !
+[37m11:30:03.696 > d[37mone
+11:30:03.696 > 
+[37m11:30:07.697 > S[37mcanning...
+[37m11:30:07.780 > I[37m2C device found at address 0x52  !
+[37m11:30:07.821 > d[37mone
+11:30:07.821 > 
+[37m11:30:11.821 > S[37mcanning...
+[37m11:30:11.905 > I[37m2C device found at address 0x52  !
+[37m11:30:11.946 > d[37mone
+11:30:11.946 > 
+[37m11:30:15.946 > S[37mcanning...
+[37m11:30:16.030 > I[37m2C device found at address 0x52  !
+[37m11:30:16.072 > d[37mone
+11:30:16.072 > 
+[37m11:30:20.072 > S[37mcanning...
+[37m11:30:20.155 > I[37m2C device found at address 0x52  !
+[37m11:30:20.197 > d[37mone
+11:30:20.197 > 
+[37m11:30:24.197 > S[37mcanning...
+[37m11:30:24.281 > I[37m2C device found at address 0x52  !
+[37m11:30:24.321 > d[37mone
+11:30:24.321 > 
+[37m11:30:28.322 > S[37mcanning...
+[37m11:30:28.405 > I[37m2C device found at address 0x52  !
+[37m11:30:28.446 > d[37mone
+11:30:28.446 > 
+[37m11:30:32.447 > S[37mcanning...
+[37m11:30:32.530 > I[37m2C device found at address 0x52  !
+[37m11:30:32.571 > d[37mone
+11:30:32.571 > 
+[37m11:30:36.571 > S[37mcanning...
+[37m11:30:36.655 > I[37m2C device found at address 0x52  !
+[37m11:30:36.696 > d[37mone
+11:30:36.697 > 
+[37m11:30:40.697 > S[37mcanning...
+[37m11:30:40.780 > I[37m2C device found at address 0x52  !
+[37m11:30:40.821 > d[37mone
+11:30:40.822 > 
+[37m11:30:44.822 > S[37mcanning...
+[37m11:30:44.904 > I[37m2C device found at address 0x52  !
+[37m11:30:44.946 > d[37mone
+11:30:44.946 > 
+[37m11:30:48.947 > S[37mcanning...
+[37m11:30:49.030 > I[37m2C device found at address 0x52  !
+[37m11:30:49.071 > d[37mone
+11:30:49.071 > 
+[37m11:30:53.071 > S[37mcanning...
+[37m11:30:53.155 > I[37m2C device found at address 0x52  !
+[37m11:30:53.195 > d[37mone
+11:30:53.196 > 
+[37m11:30:57.197 > S[37mcanning...
+[37m11:30:57.280 > I[37m2C device found at address 0x52  !
+[37m11:30:57.321 > d[37mone
+11:30:57.321 > 
+[37m11:31:01.321 > S[37mcanning...
+[37m11:31:01.405 > I[37m2C device found at address 0x52  !
+[37m11:31:01.446 > d[37mone
+11:31:01.447 > 
+[37m11:31:05.447 > S[37mcanning...
+[37m11:31:05.530 > I[37m2C device found at address 0x52  !
+[37m11:31:05.571 > d[37mone
+11:31:05.571 > 
+[37m11:31:09.571 > S[37mcanning...
+[37m11:31:09.654 > I[37m2C device found at address 0x52  !
+[37m11:31:09.697 > d[37mone
+11:31:09.697 > 
+[37m11:31:13.696 > S[37mcanning...
+[37m11:31:13.780 > I[37m2C device found at address 0x52  !
+[37m11:31:13.821 > d[37mone
+11:31:13.821 > 
+[37m11:31:17.821 > S[37mcanning...
+[37m11:31:17.904 > I[37m2C device found at address 0x52  !
+[37m11:31:17.947 > d[37mone
+11:31:17.947 > 
+[37m11:31:21.947 > S[37mcanning...
+[37m11:31:22.030 > I[37m2C device found at address 0x52  !
+[37m11:31:22.071 > d[37mone
+11:31:22.071 > 
+[37m11:31:26.071 > S[37mcanning...
+[37m11:31:26.154 > I[37m2C device found at address 0x52  !
+[37m11:31:26.196 > d[37mone
+11:31:26.196 > 
+[37m11:31:30.197 > S[37mcanning...
+[37m11:31:30.280 > I[37m2C device found at address 0x52  !
+[37m11:31:30.321 > d[37mone
+11:31:30.321 > 
+[37m11:31:34.321 > S[37mcanning...
+[37m11:31:34.404 > I[37m2C device found at address 0x52  !
+[37m11:31:34.446 > d[37mone
+11:31:34.446 > 
+[37m11:31:38.447 > S[37mcanning...
+[37m11:31:38.530 > I[37m2C device found at address 0x52  !
+[37m11:31:38.571 > d[37mone
+11:31:38.571 > 
+[37m11:31:42.571 > S[37mcanning...
+[37m11:31:42.655 > I[37m2C device found at address 0x52  !
+[37m11:31:42.696 > d[37mone
+11:31:42.696 > 
+[37m11:31:46.696 > S[37mcanning...
+[37m11:31:46.780 > I[37m2C device found at address 0x52  !
+[37m11:31:46.821 > d[37mone
+11:31:46.821 > 
+[37m11:31:50.821 > S[37mcanning...
+[37m11:31:50.905 > I[37m2C device found at address 0x52  !
+[37m11:31:50.946 > d[37mone
+11:31:50.946 > 
+[37m11:31:54.946 > S[37mcanning...
+[37m11:31:55.030 > I[37m2C device found at address 0x52  !
+[37m11:31:55.070 > d[37mone
+11:31:55.071 > 
+[37m11:31:59.071 > S[37mcanning...
+[37m11:31:59.155 > I[37m2C device found at address 0x52  !
+[37m11:31:59.196 > d[37mone
+11:31:59.196 > 
+[37m11:32:03.196 > S[37mcanning...
+[37m11:32:03.280 > I[37m2C device found at address 0x52  !
+[37m11:32:03.321 > d[37mone
+11:32:03.321 > 
+[37m11:32:07.321 > S[37mcanning...
+[37m11:32:07.404 > I[37m2C device found at address 0x52  !
+[37m11:32:07.445 > d[37mone
+11:32:07.445 > 
+[37m11:32:11.446 > S[37mcanning...
+[37m11:32:11.529 > I[37m2C device found at address 0x52  !
+[37m11:32:11.570 > d[37mone
+11:32:11.571 > 
+[37m11:32:15.571 > S[37mcanning...
+[37m11:32:15.655 > I[37m2C device found at address 0x52  !
+[37m11:32:15.696 > d[37mone
+11:32:15.696 > 
+[37m11:32:19.695 > S[37mcanning...
+[37m11:32:19.779 > I[37m2C device found at address 0x52  !
+[37m11:32:19.820 > d[37mone
+11:32:19.820 > 
+[37m11:32:23.821 > S[37mcanning...
+[37m11:32:23.904 > I[37m2C device found at address 0x52  !
+[37m11:32:23.945 > d[37mone
+11:32:23.945 > 
+[37m11:32:27.946 > S[37mcanning...
+[37m11:32:28.030 > I[37m2C device found at address 0x52  !
+[37m11:32:28.071 > d[37mone
+11:32:28.071 > 
+[37m11:32:32.071 > S[37mcanning...
+[37m11:32:32.154 > I[37m2C device found at address 0x52  !
+[37m11:32:32.195 > d[37mone
+11:32:32.195 > 
+[37m11:32:36.196 > S[37mcanning...
+[37m11:32:36.278 > I[37m2C device found at address 0x52  !
+[37m11:32:36.320 > d[37mone
+11:32:36.321 > 
+[37m11:32:40.321 > S[37mcanning...
+[37m11:32:40.404 > I[37m2C device found at address 0x52  !
+[37m11:32:40.445 > d[37mone
+11:32:40.445 > 
+[37m11:32:44.446 > S[37mcanning...
+[37m11:32:44.529 > I[37m2C device found at address 0x52  !
+[37m11:32:44.571 > d[37mone
+11:32:44.571 > 
+[37m11:32:48.571 > S[37mcanning...
+[37m11:32:48.655 > I[37m2C device found at address 0x52  !
+[37m11:32:48.695 > d[37mone
+11:32:48.696 > 
+[37m11:32:52.696 > S[37mcanning...
+[37m11:32:52.779 > I[37m2C device found at address 0x52  !
+[37m11:32:52.820 > d[37mone
+11:32:52.820 > 
+[37m11:32:56.821 > S[37mcanning...
+[37m11:32:56.904 > I[37m2C device found at address 0x52  !
+[37m11:32:56.945 > d[37mone
+11:32:56.945 > 
+[37m11:33:00.946 > S[37mcanning...
+[37m11:33:01.028 > I[37m2C device found at address 0x52  !
+[37m11:33:01.070 > d[37mone
+11:33:01.070 > 
+[37m11:33:05.071 > S[37mcanning...
+[37m11:33:05.153 > I[37m2C device found at address 0x52  !
+[37m11:33:05.195 > d[37mone
+11:33:05.195 > 
+[37m11:33:09.196 > S[37mcanning...
+[37m11:33:09.279 > I[37m2C device found at address 0x52  !
+[37m11:33:09.321 > d[37mone
+11:33:09.321 > 
+[37m11:33:13.321 > S[37mcanning...
+[37m11:33:13.404 > I[37m2C device found at address 0x52  !
+[37m11:33:13.445 > d[37mone
+11:33:13.445 > 
+[37m11:33:17.446 > S[37mcanning...
+[37m11:33:17.528 > I[37m2C device found at address 0x52  !
+[37m11:33:17.570 > d[37mone
+11:33:17.570 > 
+[37m11:33:21.570 > S[37mcanning...
+[37m11:33:21.653 > I[37m2C device found at address 0x52  !
+[37m11:33:21.695 > d[37mone
+11:33:21.695 > 
+[37m11:33:25.696 > S[37mcanning...
+[37m11:33:25.779 > I[37m2C device found at address 0x52  !
+[37m11:33:25.820 > d[37mone
+11:33:25.821 > 
+[37m11:33:29.821 > S[37mcanning...
+[37m11:33:29.904 > I[37m2C device found at address 0x52  !
+[37m11:33:29.945 > d[37mone
+11:33:29.945 > 
+[37m11:33:33.945 > S[37mcanning...
+[37m11:33:34.029 > I[37m2C device found at address 0x52  !
+[37m11:33:34.070 > d[37mone
+11:33:34.070 > 
+[37m11:33:38.071 > S[37mcanning...
+[37m11:33:38.154 > I[37m2C device found at address 0x52  !
+[37m11:33:38.195 > d[37mone
+11:33:38.195 > 
+[37m11:33:42.196 > S[37mcanning...
+[37m11:33:42.279 > I[37m2C device found at address 0x52  !
+[37m11:33:42.320 > d[37mone
+11:33:42.320 > 
+[37m11:33:46.321 > S[37mcanning...
+[37m11:33:46.404 > I[37m2C device found at address 0x52  !
+[37m11:33:46.445 > d[37mone
+11:33:46.445 > 
+[37m11:33:50.445 > S[37mcanning...
+[37m11:33:50.528 > I[37m2C device found at address 0x52  !
+[37m11:33:50.570 > d[37mone
+11:33:50.570 > 
+[37m11:33:54.570 > S[37mcanning...
+[37m11:33:54.653 > I[37m2C device found at address 0x52  !
+[37m11:33:54.695 > d[37mone
+11:33:54.695 > 
+[37m11:33:58.695 > S[37mcanning...
+[37m11:33:58.779 > I[37m2C device found at address 0x52  !
+[37m11:33:58.819 > d[37mone
+11:33:58.819 > 
+[37m11:34:02.820 > S[37mcanning...
+[37m11:34:02.904 > I[37m2C device found at address 0x52  !
+[37m11:34:02.945 > d[37mone
+11:34:02.945 > 
+[37m11:34:06.945 > S[37mcanning...
+[37m11:34:07.028 > I[37m2C device found at address 0x52  !
+[37m11:34:07.070 > d[37mone
+11:34:07.070 > 
+[37m11:34:11.070 > S[37mcanning...
+[37m11:34:11.154 > I[37m2C device found at address 0x52  !
+[37m11:34:11.194 > d[37mone
+11:34:11.194 > 
+[37m11:34:15.195 > S[37mcanning...
+[37m11:34:15.279 > I[37m2C device found at address 0x52  !
+[37m11:34:15.319 > d[37mone
+11:34:15.319 > 
+[37m11:34:19.320 > S[37mcanning...
+[37m11:34:19.404 > I[37m2C device found at address 0x52  !
+[37m11:34:19.444 > d[37mone
+11:34:19.444 > 
+[37m11:34:23.446 > S[37mcanning...
+[37m11:34:23.529 > I[37m2C device found at address 0x52  !
+[37m11:34:23.569 > d[37mone
+11:34:23.569 > 
+[37m11:34:27.571 > S[37mcanning...
+[37m11:34:27.653 > I[37m2C device found at address 0x52  !
+[37m11:34:27.695 > d[37mone
+11:34:27.695 > 
+[37m11:34:31.695 > S[37mcanning...
+[37m11:34:31.779 > I[37m2C device found at address 0x52  !
+[37m11:34:31.820 > d[37mone
+11:34:31.820 > 
+[37m11:34:35.819 > S[37mcanning...
+[37m11:34:35.903 > I[37m2C device found at address 0x52  !
+[37m11:34:35.944 > d[37mone
+11:34:35.944 > 
+[37m11:34:39.945 > S[37mcanning...
+[37m11:34:40.028 > I[37m2C device found at address 0x52  !
+[37m11:34:40.069 > d[37mone
+11:34:40.070 > 
+[37m11:34:44.070 > S[37mcanning...
+[37m11:34:44.153 > I[37m2C device found at address 0x52  !
+[37m11:34:44.195 > d[37mone
+11:34:44.195 > 
+[37m11:34:48.195 > S[37mcanning...
+[37m11:34:48.278 > I[37m2C device found at address 0x52  !
+[37m11:34:48.320 > d[37mone
+11:34:48.320 > 
+[37m11:34:52.320 > S[37mcanning...
+[37m11:34:52.403 > I[37m2C device found at address 0x52  !
+[37m11:34:52.445 > d[37mone
+11:34:52.445 > 
+[37m11:34:56.445 > S[37mcanning...
+[37m11:34:56.528 > I[37m2C device found at address 0x52  !
+[37m11:34:56.569 > d[37mone
+11:34:56.570 > 
+[37m11:35:00.570 > S[37mcanning...
+[37m11:35:00.653 > I[37m2C device found at address 0x52  !
+[37m11:35:00.694 > d[37mone
+11:35:00.695 > 
+[37m11:35:04.695 > S[37mcanning...
+[37m11:35:04.777 > I[37m2C device found at address 0x52  !
+[37m11:35:04.820 > d[37mone
+11:35:04.820 > 
+[37m11:35:08.820 > S[37mcanning...
+[37m11:35:08.903 > I[37m2C device found at address 0x52  !
+[37m11:35:08.944 > d[37mone
+11:35:08.944 > 
+[37m11:35:12.945 > S[37mcanning...
+[37m11:35:13.028 > I[37m2C device found at address 0x52  !
+[37m11:35:13.069 > d[37mone
+11:35:13.069 > 
+[37m11:35:17.069 > S[37mcanning...
+[37m11:35:17.153 > I[37m2C device found at address 0x52  !
+[37m11:35:17.194 > d[37mone
+11:35:17.195 > 
+[37m11:35:21.195 > S[37mcanning...
+[37m11:35:21.278 > I[37m2C device found at address 0x52  !
+[37m11:35:21.319 > d[37mone
+11:35:21.319 > 
+[37m11:35:25.319 > S[37mcanning...
+[37m11:35:25.403 > I[37m2C device found at address 0x52  !
+[37m11:35:25.444 > d[37mone
+11:35:25.444 > 
+[37m11:35:29.445 > S[37mcanning...
+[37m11:35:29.528 > I[37m2C device found at address 0x52  !
+[37m11:35:29.569 > d[37mone
+11:35:29.569 > 
+[37m11:35:33.569 > S[37mcanning...
+[37m11:35:33.653 > I[37m2C device found at address 0x52  !
+[37m11:35:33.693 > d[37mone
+11:35:33.694 > 
+[37m11:35:37.694 > S[37mcanning...
+[37m11:35:37.778 > I[37m2C device found at address 0x52  !
+[37m11:35:37.819 > d[37mone
+11:35:37.819 > 
+[37m11:35:41.819 > S[37mcanning...
+[37m11:35:41.903 > I[37m2C device found at address 0x52  !
+[37m11:35:41.944 > d[37mone
+11:35:41.944 > 
+[37m11:35:45.944 > S[37mcanning...
+[37m11:35:46.028 > I[37m2C device found at address 0x52  !
+[37m11:35:46.069 > d[37mone
+11:35:46.069 > 
+[37m11:35:50.069 > S[37mcanning...
+[37m11:35:50.153 > I[37m2C device found at address 0x52  !
+[37m11:35:50.194 > d[37mone
+11:35:50.194 > 
+[37m11:35:54.194 > S[37mcanning...
+[37m11:35:54.277 > I[37m2C device found at address 0x52  !
+[37m11:35:54.319 > d[37mone
+11:35:54.319 > 
+[37m11:35:58.320 > S[37mcanning...
+[37m11:35:58.402 > I[37m2C device found at address 0x52  !
+[37m11:35:58.443 > d[37mone
+11:35:58.444 > 
+[37m11:36:02.444 > S[37mcanning...
+[37m11:36:02.527 > I[37m2C device found at address 0x52  !
+[37m11:36:02.569 > d[37mone
+11:36:02.569 > 
+[37m11:36:06.569 > S[37mcanning...
+[37m11:36:06.653 > I[37m2C device found at address 0x52  !
+[37m11:36:06.694 > d[37mone
+11:36:06.694 > 
+[37m11:36:10.694 > S[37mcanning...
+[37m11:36:10.777 > I[37m2C device found at address 0x52  !
+[37m11:36:10.819 > d[37mone
+11:36:10.819 > 
+[37m11:36:14.819 > S[37mcanning...
+[37m11:36:14.903 > I[37m2C device found at address 0x52  !
+[37m11:36:14.943 > d[37mone
+11:36:14.943 > 
+[37m11:36:18.944 > S[37mcanning...
+[37m11:36:19.026 > I[37m2C device found at address 0x52  !
+[37m11:36:19.069 > d[37mone
+11:36:19.069 > 
+[37m11:36:23.069 > S[37mcanning...
+[37m11:36:23.152 > I[37m2C device found at address 0x52  !
+[37m11:36:23.194 > d[37mone
+11:36:23.194 > 
+[37m11:36:27.194 > S[37mcanning...
+[37m11:36:27.277 > I[37m2C device found at address 0x52  !
+[37m11:36:27.319 > d[37mone
+11:36:27.319 > 
+[37m11:36:31.319 > S[37mcanning...
+[37m11:36:31.402 > I[37m2C device found at address 0x52  !
+[37m11:36:31.444 > d[37mone
+11:36:31.444 > 

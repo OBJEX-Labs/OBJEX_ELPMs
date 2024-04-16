@@ -1,0 +1,9 @@
+[37m10:07:23.848 > E[37mSP-ROM:esp32s3-20210327
+[37m10:07:23.854 > B[37muild:Mar 27 2021
+10:07:23.854 > rst:0x1 (POWERON),boot:0x8 (SPI_FAST_FLASH_BO[37mO[37mT)
+10:07:23.859 > SPIWP:0xee
+10:07:23.859 > mode:DIO, clock div:1
+10:07:23.859 > load:0x3fcd0108,len:0x39[37mc[37m
+10:07:23.865 > load:0x403b6000,len:0x9a4
+10:07:23.865 > load:0x403ba000,len:0x2868
+10:07:23.865 > entry [37m0[37mx403b61c0

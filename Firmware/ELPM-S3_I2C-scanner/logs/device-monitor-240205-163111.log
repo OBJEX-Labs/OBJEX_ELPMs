@@ -1,0 +1,384 @@
+[37m16:31:12.030 > S[37mcanning...
+[37m16:31:12.064 > I[37m2C device found at address 0x21  !
+16:31:12.064 > I2C device found at address[37m [37m0x22  !
+[37m16:31:12.111 > I[37m2C device found at address 0x52  !
+[37m16:31:12.152 > d[37mone
+16:31:12.152 > 
+[37m16:31:16.153 > S[37mcanning...
+[37m16:31:16.188 > I[37m2C device found at address 0x21  !
+16:31:16.188 > I2C device found at address[37m [37m0x22  !
+[37m16:31:16.234 > I[37m2C device found at address 0x52  !
+[37m16:31:16.276 > d[37mone
+16:31:16.276 > 
+[37m16:31:20.276 > S[37mcanning...
+[37m16:31:20.311 > I[37m2C device found at address 0x21  !
+16:31:20.311 > I2C device found at address[37m [37m0x22  !
+[37m16:31:20.357 > I[37m2C device found at address 0x52  !
+[37m16:31:20.399 > d[37mone
+16:31:20.399 > 
+[37m16:31:24.399 > S[37mcanning...
+[37m16:31:24.434 > I[37m2C device found at address 0x21  !
+16:31:24.434 > I2C device found at address[37m [37m0x22  !
+[37m16:31:24.480 > I[37m2C device found at address 0x52  !
+[37m16:31:24.521 > d[37mone
+16:31:24.522 > 
+[37m16:31:28.522 > S[37mcanning...
+[37m16:31:28.557 > I[37m2C device found at address 0x21  !
+16:31:28.557 > I2C device found at address[37m [37m0x22  !
+[37m16:31:28.603 > I[37m2C device found at address 0x52  !
+[37m16:31:28.644 > d[37mone
+16:31:28.645 > 
+[37m16:31:32.645 > S[37mcanning...
+[37m16:31:32.680 > I[37m2C device found at address 0x21  !
+16:31:32.680 > I2C device found at address[37m [37m0x22  !
+[37m16:31:32.726 > I[37m2C device found at address 0x52  !
+[37m16:31:32.768 > d[37mone
+16:31:32.768 > 
+[37m16:31:36.768 > S[37mcanning...
+[37m16:31:36.803 > I[37m2C device found at address 0x21  !
+16:31:36.803 > I2C device found at address[37m [37m0x22  !
+[37m16:31:36.849 > I[37m2C device found at address 0x52  !
+[37m16:31:36.891 > d[37mone
+16:31:36.891 > 
+[37m16:31:40.891 > S[37mcanning...
+[37m16:31:40.925 > I[37m2C device found at address 0x21  !
+16:31:40.926 > I2C device found at address[37m [37m0x22  !
+[37m16:31:40.972 > I[37m2C device found at address 0x52  !
+[37m16:31:41.014 > d[37mone
+16:31:41.014 > 
+[37m16:31:45.014 > S[37mcanning...
+[37m16:31:45.049 > I[37m2C device found at address 0x21  !
+16:31:45.049 > I2C device found at address[37m [37m0x22  !
+[37m16:31:45.096 > I[37m2C device found at address 0x52  !
+[37m16:31:45.137 > d[37mone
+16:31:45.137 > 
+[37m16:31:49.137 > S[37mcanning...
+[37m16:31:49.172 > I[37m2C device found at address 0x21  !
+16:31:49.172 > I2C device found at address[37m [37m0x22  !
+[37m16:31:49.219 > I[37m2C device found at address 0x52  !
+[37m16:31:49.259 > d[37mone
+16:31:49.259 > 
+[37m16:31:53.260 > S[37mcanning...
+[37m16:31:53.295 > I[37m2C device found at address 0x21  !
+16:31:53.295 > I2C device found at address[37m [37m0x22  !
+[37m16:31:53.341 > I[37m2C device found at address 0x52  !
+[37m16:31:53.383 > d[37mone
+16:31:53.383 > 
+[37m16:31:57.383 > S[37mcanning...
+[37m16:31:57.417 > I[37m2C device found at address 0x21  !
+16:31:57.418 > I2C device found at address[37m [37m0x22  !
+[37m16:31:57.465 > I[37m2C device found at address 0x52  !
+[37m16:31:57.506 > d[37mone
+16:31:57.506 > 
+[37m16:32:01.506 > S[37mcanning...
+[37m16:32:01.541 > I[37m2C device found at address 0x21  !
+16:32:01.541 > I2C device found at address[37m [37m0x22  !
+[37m16:32:01.588 > I[37m2C device found at address 0x52  !
+[37m16:32:01.629 > d[37mone
+16:32:01.629 > 
+[37m16:32:05.629 > S[37mcanning...
+[37m16:32:05.664 > I[37m2C device found at address 0x21  !
+16:32:05.664 > I2C device found at address[37m [37m0x22  !
+[37m16:32:05.711 > I[37m2C device found at address 0x52  !
+[37m16:32:05.752 > d[37mone
+16:32:05.752 > 
+[37m16:32:09.752 > S[37mcanning...
+[37m16:32:09.787 > I[37m2C device found at address 0x21  !
+16:32:09.787 > I2C device found at address[37m [37m0x22  !
+[37m16:32:09.834 > I[37m2C device found at address 0x52  !
+[37m16:32:09.875 > d[37mone
+16:32:09.875 > 
+[37m16:32:13.876 > S[37mcanning...
+[37m16:32:13.910 > I[37m2C device found at address 0x21  !
+16:32:13.910 > I2C device found at address[37m [37m0x22  !
+[37m16:32:13.956 > I[37m2C device found at address 0x52  !
+[37m16:32:13.998 > d[37mone
+16:32:13.998 > 
+[37m16:32:17.999 > S[37mcanning...
+[37m16:32:18.033 > I[37m2C device found at address 0x21  !
+16:32:18.033 > I2C device found at address[37m [37m0x22  !
+[37m16:32:18.080 > I[37m2C device found at address 0x52  !
+[37m16:32:18.120 > d[37mone
+16:32:18.120 > 
+[37m16:32:22.122 > S[37mcanning...
+[37m16:32:22.156 > I[37m2C device found at address 0x21  !
+16:32:22.156 > I2C device found at address[37m [37m0x22  !
+[37m16:32:22.202 > I[37m2C device found at address 0x52  !
+[37m16:32:22.244 > d[37mone
+16:32:22.244 > 
+[37m16:32:26.244 > S[37mcanning...
+[37m16:32:26.279 > I[37m2C device found at address 0x21  !
+16:32:26.279 > I2C device found at address[37m [37m0x22  !
+[37m16:32:26.326 > I[37m2C device found at address 0x52  !
+[37m16:32:26.367 > d[37mone
+16:32:26.367 > 
+[37m16:32:30.368 > S[37mcanning...
+[37m16:32:30.402 > I[37m2C device found at address 0x21  !
+16:32:30.402 > I2C device found at address[37m [37m0x22  !
+[37m16:32:30.448 > I[37m2C device found at address 0x52  !
+[37m16:32:30.489 > d[37mone
+16:32:30.490 > 
+[37m16:32:34.490 > S[37mcanning...
+[37m16:32:34.525 > I[37m2C device found at address 0x21  !
+16:32:34.525 > I2C device found at address[37m [37m0x22  !
+[37m16:32:34.572 > I[37m2C device found at address 0x52  !
+[37m16:32:34.613 > d[37mone
+16:32:34.613 > 
+[37m16:32:38.614 > S[37mcanning...
+[37m16:32:38.648 > I[37m2C device found at address 0x21  !
+16:32:38.648 > I2C device found at address[37m [37m0x22  !
+[37m16:32:38.695 > I[37m2C device found at address 0x52  !
+[37m16:32:38.735 > d[37mone
+16:32:38.736 > 
+[37m16:32:42.736 > S[37mcanning...
+[37m16:32:42.771 > I[37m2C device found at address 0x21  !
+16:32:42.772 > I2C device found at address[37m [37m0x22  !
+[37m16:32:42.818 > I[37m2C device found at address 0x52  !
+[37m16:32:42.858 > d[37mone
+16:32:42.858 > 
+[37m16:32:46.860 > S[37mcanning...
+[37m16:32:46.894 > I[37m2C device found at address 0x21  !
+16:32:46.894 > I2C device found at address[37m [37m0x22  !
+[37m16:32:46.941 > I[37m2C device found at address 0x52  !
+[37m16:32:46.982 > d[37mone
+16:32:46.983 > 
+[37m16:32:50.982 > S[37mcanning...
+[37m16:32:51.017 > I[37m2C device found at address 0x21  !
+16:32:51.017 > I2C device found at address[37m [37m0x22  !
+[37m16:32:51.064 > I[37m2C device found at address 0x52  !
+[37m16:32:51.105 > d[37mone
+16:32:51.105 > 
+[37m16:32:55.106 > S[37mcanning...
+[37m16:32:55.140 > I[37m2C device found at address 0x21  !
+16:32:55.140 > I2C device found at address[37m [37m0x22  !
+[37m16:32:55.186 > I[37m2C device found at address 0x52  !
+[37m16:32:55.228 > d[37mone
+16:32:55.229 > 
+[37m16:32:59.228 > S[37mcanning...
+[37m16:32:59.263 > I[37m2C device found at address 0x21  !
+16:32:59.264 > I2C device found at address[37m [37m0x22  !
+[37m16:32:59.310 > I[37m2C device found at address 0x52  !
+[37m16:32:59.351 > d[37mone
+16:32:59.351 > 
+[37m16:33:03.352 > S[37mcanning...
+[37m16:33:03.386 > I[37m2C device found at address 0x21  !
+16:33:03.386 > I2C device found at address[37m [37m0x22  !
+[37m16:33:03.433 > I[37m2C device found at address 0x52  !
+[37m16:33:03.474 > d[37mone
+16:33:03.474 > 
+[37m16:33:07.474 > S[37mcanning...
+[37m16:33:07.510 > I[37m2C device found at address 0x21  !
+16:33:07.510 > I2C device found at address[37m [37m0x22  !
+[37m16:33:07.556 > I[37m2C device found at address 0x52  !
+[37m16:33:07.597 > d[37mone
+16:33:07.598 > 
+[37m16:33:11.598 > S[37mcanning...
+[37m16:33:11.633 > I[37m2C device found at address 0x21  !
+16:33:11.633 > I2C device found at address[37m [37m0x22  !
+[37m16:33:11.678 > I[37m2C device found at address 0x52  !
+[37m16:33:11.720 > d[37mone
+16:33:11.720 > 
+[37m16:33:15.721 > S[37mcanning...
+[37m16:33:15.755 > I[37m2C device found at address 0x21  !
+16:33:15.755 > I2C device found at address[37m [37m0x22  !
+[37m16:33:15.802 > I[37m2C device found at address 0x52  !
+[37m16:33:15.843 > d[37mone
+16:33:15.844 > 
+[37m16:33:19.844 > S[37mcanning...
+[37m16:33:19.878 > I[37m2C device found at address 0x21  !
+16:33:19.879 > I2C device found at address[37m [37m0x22  !
+[37m16:33:19.925 > I[37m2C device found at address 0x52  !
+[37m16:33:19.966 > d[37mone
+16:33:19.966 > 
+[37m16:33:23.966 > S[37mcanning...
+[37m16:33:24.002 > I[37m2C device found at address 0x21  !
+16:33:24.002 > I2C device found at address[37m [37m0x22  !
+[37m16:33:24.048 > I[37m2C device found at address 0x52  !
+[37m16:33:24.089 > d[37mone
+16:33:24.090 > 
+[37m16:33:28.090 > S[37mcanning...
+[37m16:33:28.124 > I[37m2C device found at address 0x21  !
+16:33:28.124 > I2C device found at address[37m [37m0x22  !
+[37m16:33:28.170 > I[37m2C device found at address 0x52  !
+[37m16:33:28.212 > d[37mone
+16:33:28.212 > 
+[37m16:33:32.213 > S[37mcanning...
+[37m16:33:32.248 > I[37m2C device found at address 0x21  !
+16:33:32.248 > I2C device found at address[37m [37m0x22  !
+[37m16:33:32.294 > I[37m2C device found at address 0x52  !
+[37m16:33:32.336 > d[37mone
+16:33:32.336 > 
+[37m16:33:36.336 > S[37mcanning...
+[37m16:33:36.371 > I[37m2C device found at address 0x21  !
+16:33:36.371 > I2C device found at address[37m [37m0x22  !
+[37m16:33:36.417 > I[37m2C device found at address 0x52  !
+[37m16:33:36.459 > d[37mone
+16:33:36.459 > 
+[37m16:33:40.459 > S[37mcanning...
+[37m16:33:40.494 > I[37m2C device found at address 0x21  !
+16:33:40.494 > I2C device found at address[37m [37m0x22  !
+[37m16:33:40.540 > I[37m2C device found at address 0x52  !
+[37m16:33:40.581 > d[37mone
+16:33:40.581 > 
+[37m16:33:44.582 > S[37mcanning...
+[37m16:33:44.617 > I[37m2C device found at address 0x21  !
+16:33:44.617 > I2C device found at address[37m [37m0x22  !
+[37m16:33:44.663 > I[37m2C device found at address 0x52  !
+[37m16:33:44.705 > d[37mone
+16:33:44.705 > 
+[37m16:33:48.705 > S[37mcanning...
+[37m16:33:48.740 > I[37m2C device found at address 0x21  !
+16:33:48.740 > I2C device found at address[37m [37m0x22  !
+[37m16:33:48.786 > I[37m2C device found at address 0x52  !
+[37m16:33:48.828 > d[37mone
+16:33:48.828 > 
+[37m16:33:52.827 > S[37mcanning...
+[37m16:33:52.863 > I[37m2C device found at address 0x21  !
+16:33:52.863 > I2C device found at address[37m [37m0x22  !
+[37m16:33:52.909 > I[37m2C device found at address 0x52  !
+[37m16:33:52.950 > d[37mone
+16:33:52.950 > 
+[37m16:33:56.951 > S[37mcanning...
+[37m16:33:56.985 > I[37m2C device found at address 0x21  !
+16:33:56.985 > I2C device found at address[37m [37m0x22  !
+[37m16:33:57.032 > I[37m2C device found at address 0x52  !
+[37m16:33:57.073 > d[37mone
+16:33:57.074 > 
+[37m16:34:01.074 > S[37mcanning...
+[37m16:34:01.109 > I[37m2C device found at address 0x21  !
+16:34:01.109 > I2C device found at address[37m [37m0x22  !
+[37m16:34:01.155 > I[37m2C device found at address 0x52  !
+[37m16:34:01.197 > d[37mone
+16:34:01.197 > 
+[37m16:34:05.197 > S[37mcanning...
+[37m16:34:05.232 > I[37m2C device found at address 0x21  !
+16:34:05.232 > I2C device found at address[37m [37m0x22  !
+[37m16:34:05.279 > I[37m2C device found at address 0x52  !
+[37m16:34:05.319 > d[37mone
+16:34:05.319 > 
+[37m16:34:09.320 > S[37mcanning...
+[37m16:34:09.354 > I[37m2C device found at address 0x21  !
+16:34:09.354 > I2C device found at address[37m [37m0x22  !
+[37m16:34:09.401 > I[37m2C device found at address 0x52  !
+[37m16:34:09.443 > d[37mone
+16:34:09.443 > 
+[37m16:34:13.443 > S[37mcanning...
+[37m16:34:13.478 > I[37m2C device found at address 0x21  !
+16:34:13.478 > I2C device found at address[37m [37m0x22  !
+[37m16:34:13.524 > I[37m2C device found at address 0x52  !
+[37m16:34:13.566 > d[37mone
+16:34:13.566 > 
+[37m16:34:17.566 > S[37mcanning...
+[37m16:34:17.601 > I[37m2C device found at address 0x21  !
+16:34:17.601 > I2C device found at address[37m [37m0x22  !
+[37m16:34:17.647 > I[37m2C device found at address 0x52  !
+[37m16:34:17.689 > d[37mone
+16:34:17.689 > 
+[37m16:34:21.689 > S[37mcanning...
+[37m16:34:21.724 > I[37m2C device found at address 0x21  !
+16:34:21.724 > I2C device found at address[37m [37m0x22  !
+[37m16:34:21.770 > I[37m2C device found at address 0x52  !
+[37m16:34:21.812 > d[37mone
+16:34:21.812 > 
+[37m16:34:25.812 > S[37mcanning...
+[37m16:34:25.847 > I[37m2C device found at address 0x21  !
+16:34:25.847 > I2C device found at address[37m [37m0x22  !
+[37m16:34:25.893 > I[37m2C device found at address 0x52  !
+[37m16:34:25.935 > d[37mone
+16:34:25.935 > 
+[37m16:34:29.935 > S[37mcanning...
+[37m16:34:29.970 > I[37m2C device found at address 0x21  !
+16:34:29.970 > I2C device found at address[37m [37m0x22  !
+[37m16:34:30.016 > I[37m2C device found at address 0x52  !
+[37m16:34:30.058 > d[37mone
+16:34:30.058 > 
+[37m16:34:34.058 > S[37mcanning...
+[37m16:34:34.092 > I[37m2C device found at address 0x21  !
+16:34:34.093 > I2C device found at address[37m [37m0x22  !
+[37m16:34:34.140 > I[37m2C device found at address 0x52  !
+[37m16:34:34.181 > d[37mone
+16:34:34.181 > 
+[37m16:34:38.181 > S[37mcanning...
+[37m16:34:38.216 > I[37m2C device found at address 0x21  !
+16:34:38.216 > I2C device found at address[37m [37m0x22  !
+[37m16:34:38.262 > I[37m2C device found at address 0x52  !
+[37m16:34:38.304 > d[37mone
+16:34:38.304 > 
+[37m16:34:42.304 > S[37mcanning...
+[37m16:34:42.338 > I[37m2C device found at address 0x21  !
+16:34:42.338 > I2C device found at address[37m [37m0x22  !
+[37m16:34:42.386 > I[37m2C device found at address 0x52  !
+[37m16:34:42.427 > d[37mone
+16:34:42.427 > 
+[37m16:34:46.427 > S[37mcanning...
+[37m16:34:46.462 > I[37m2C device found at address 0x21  !
+16:34:46.463 > I2C device found at address[37m [37m0x22  !
+[37m16:34:46.509 > I[37m2C device found at address 0x52  !
+[37m16:34:46.550 > d[37mone
+16:34:46.550 > 
+[37m16:34:50.551 > S[37mcanning...
+[37m16:34:50.585 > I[37m2C device found at address 0x21  !
+16:34:50.585 > I2C device found at address[37m [37m0x22  !
+[37m16:34:50.632 > I[37m2C device found at address 0x52  !
+[37m16:34:50.673 > d[37mone
+16:34:50.673 > 
+[37m16:34:54.673 > S[37mcanning...
+[37m16:34:54.708 > I[37m2C device found at address 0x21  !
+16:34:54.708 > I2C device found at address[37m [37m0x22  !
+[37m16:34:54.755 > I[37m2C device found at address 0x52  !
+[37m16:34:54.795 > d[37mone
+16:34:54.796 > 
+[37m16:34:58.796 > S[37mcanning...
+[37m16:34:58.830 > I[37m2C device found at address 0x21  !
+16:34:58.831 > I2C device found at address[37m [37m0x22  !
+[37m16:34:58.877 > I[37m2C device found at address 0x52  !
+[37m16:34:58.918 > d[37mone
+16:34:58.918 > 
+[37m16:35:02.920 > S[37mcanning...
+[37m16:35:02.954 > I[37m2C device found at address 0x21  !
+16:35:02.954 > I2C device found at address[37m [37m0x22  !
+[37m16:35:03.001 > I[37m2C device found at address 0x52  !
+[37m16:35:03.041 > d[37mone
+16:35:03.042 > 
+[37m16:35:07.043 > S[37mcanning...
+[37m16:35:07.077 > I[37m2C device found at address 0x21  !
+16:35:07.078 > I2C device found at address[37m [37m0x22  !
+[37m16:35:07.124 > I[37m2C device found at address 0x52  !
+[37m16:35:07.165 > d[37mone
+16:35:07.165 > 
+[37m16:35:11.165 > S[37mcanning...
+[37m16:35:11.200 > I[37m2C device found at address 0x21  !
+16:35:11.200 > I2C device found at address[37m [37m0x22  !
+[37m16:35:11.247 > I[37m2C device found at address 0x52  !
+[37m16:35:11.287 > d[37mone
+16:35:11.288 > 
+[37m16:35:15.289 > S[37mcanning...
+[37m16:35:15.323 > I[37m2C device found at address 0x21  !
+16:35:15.323 > I2C device found at address[37m [37m0x22  !
+[37m16:35:15.369 > I[37m2C device found at address 0x52  !
+[37m16:35:15.411 > d[37mone
+16:35:15.411 > 
+[37m16:35:19.412 > S[37mcanning...
+[37m16:35:19.446 > I[37m2C device found at address 0x21  !
+16:35:19.446 > I2C device found at address[37m [37m0x22  !
+[37m16:35:19.492 > I[37m2C device found at address 0x52  !
+[37m16:35:19.533 > d[37mone
+16:35:19.534 > 
+[37m16:35:23.535 > S[37mcanning...
+[37m16:35:23.569 > I[37m2C device found at address 0x21  !
+16:35:23.569 > I2C device found at address[37m [37m0x22  !
+[37m16:35:23.616 > I[37m2C device found at address 0x52  !
+[37m16:35:23.657 > d[37mone
+16:35:23.657 > 
+[37m16:35:27.658 > S[37mcanning...
+[37m16:35:27.692 > I[37m2C device found at address 0x21  !
+16:35:27.692 > I2C device found at address[37m [37m0x22  !
+[37m16:35:27.739 > I[37m2C device found at address 0x52  !
+[37m16:35:27.780 > d[37mone
+16:35:27.780 > 
+[37m16:35:31.781 > S[37mcanning...
+[37m16:35:31.815 > I[37m2C device found at address 0x21  !
+16:35:31.815 > I2C device found at address[37m [37m0x22  !
+[37m16:35:31.862 > I[37m2C device found at address 0x52  !
+[37m16:35:31.903 > d[37mone
+16:35:31.903 > 

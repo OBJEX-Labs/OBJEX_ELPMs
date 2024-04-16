@@ -1,0 +1,115 @@
+[37m19:06:03.632 > S[37mcanning...
+[37m19:06:03.758 > N[37mo I2C devices found
+19:06:03.758 > 
+[37m19:06:07.758 > S[37mcanning...
+[37m19:06:07.885 > N[37mo I2C devices found
+19:06:07.885 > 
+[37m19:06:11.883 > S[37mcanning...
+[37m19:06:12.011 > N[37mo I2C devices found
+19:06:12.011 > 
+[37m19:06:16.010 > S[37mcanning...
+[37m19:06:16.137 > N[37mo I2C devices found
+19:06:16.138 > 
+[37m19:06:20.136 > S[37mcanning...
+[37m19:06:20.263 > N[37mo I2C devices found
+19:06:20.263 > 
+[37m19:06:24.262 > S[37mcanning...
+[37m19:06:24.389 > N[37mo I2C devices found
+19:06:24.389 > 
+[37m19:06:28.388 > S[37mcanning...
+[37m19:06:28.514 > N[37mo I2C devices found
+19:06:28.516 > 
+[37m19:06:32.513 > S[37mcanning...
+[37m19:06:32.641 > N[37mo I2C devices found
+19:06:32.641 > 
+[37m19:06:36.639 > S[37mcanning...
+[37m19:06:36.767 > N[37mo I2C devices found
+19:06:36.767 > 
+[37m19:06:40.766 > S[37mcanning...
+[37m19:06:40.892 > N[37mo I2C devices found
+19:06:40.893 > 
+[37m19:06:44.643 > E[37mSP-ROM:esp32s3-20210327
+[37m19:06:44.649 > B[37muild:Mar 27 2021
+19:06:44.649 > rst:0x1 (POWERON),boot:0x8 (SPI_FAST_FLASH_BO[37mO[37mT)
+19:06:44.655 > SPIWP:0xee
+19:06:44.655 > mode:DIO, clock div:1
+19:06:44.655 > load:0x3fcd0108,len:0x39[37mc[37m
+19:06:44.661 > load:0x403b6000,len:0x9a4
+19:06:44.661 > load:0x403ba000,len:0x2868
+19:06:44.661 > entry [37m0[37mx403b61c0
+[37m19:06:44.707 > E[37mSP-ROM:esp32s3-20210327
+[37m19:06:44.715 > B[37muild:Mar 27 2021
+19:06:44.715 > rst:0x1 (POWERON),boot:0x8 (SPI_FAST_FLASH_BO[37mO[37mT)
+19:06:44.720 > SPIWP:0xee
+19:06:44.720 > mode:DIO, clock div:1
+19:06:44.720 > load:0x3fcd0108,len:0x39[37mc[37m
+19:06:44.726 > load:0x403b6000,len:0x9a4
+19:06:44.726 > load:0x403ba000,len:0x2868
+19:06:44.726 > entry [37m0[37mx403b61c0
+[37m19:06:44.771 > E[37mSP-ROM:esp32s3-20210327
+[37m19:06:44.777 > B[37muild:Mar 27 2021
+19:06:44.778 > rst:0x1 (POWERON),boot:0x8 (SPI_FAST_FLASH_BO[37mO[37mT)
+19:06:44.783 > SPIWP:0xee
+19:06:44.783 > mode:DIO, clock div:1
+19:06:44.783 > load:0x3fcd0108,len:0x39[37mc[37m
+19:06:44.788 > load:0x403b6000,len:0x9a4
+19:06:44.788 > load:0x403ba000,len:0x2868
+19:06:44.788 > entry [37m0[37mx403b61c0
+[37m19:06:44.866 > E[37mSP-ROM:esp32s3-20210327
+[37m19:06:44.872 > B[37muild:Mar 27 2021
+19:06:44.872 > rst:0x1 (POWERON),boot:0x8 (SPI_FAST_FLASH_BO[37mO[37mT)
+19:06:44.878 > SPIWP:0xee
+19:06:44.878 > mode:DIO, clock div:1
+19:06:44.878 > load:0x3fcd0108,len:0x39[37mc[37m
+19:06:44.883 > load:0x403b6000,len:0x9a4
+19:06:44.883 > load:0x403ba000,len:0x2868
+19:06:44.883 > entry [37m0[37mx403b61c0
+[37m19:06:44.958 > 
+[37m19:06:44.959 > I2C Scanner
+19:06:44.959 > Scanning...
+[37m19:06:45.085 > N[37mo I2C devices found
+19:06:45.085 > 
+[37m19:06:45.098 > E[37mSP-ROM:esp32s3-20210327
+[37m19:06:45.105 > B[37muild:Mar 27 2021
+19:06:45.105 > rst:0x1 (POWERON),boot:0x8 (SPI_FAST_FLASH_BO[37mO[37mT)
+19:06:45.110 > SPIWP:0xee
+19:06:45.110 > mode:DIO, clock div:1
+19:06:45.110 > load:0x3fcd0108,len:0x39[37mc[37m
+19:06:45.116 > load:0x403b6000,len:0x9a4
+19:06:45.116 > load:0x403ba000,len:0x2868
+19:06:45.116 > entry [37m0[37mx403b61c0
+[37m19:06:45.191 > 
+[37m19:06:45.192 > I2C Scanner
+19:06:45.192 > Scanning...
+[37m19:06:45.305 > E[37mSP-ROM:esp32s3-20210327
+[37m19:06:45.312 > B[37muild:Mar 27 2021
+19:06:45.312 > rst:0x1 (POWERON),boot:0x8 (SPI_FAST_FLASH_BO[37mO[37mT)
+19:06:45.318 > SPIWP:0xee
+19:06:45.318 > mode:DIO, clock div:1
+19:06:45.318 > load:0x3fcd0108,len:0x39[37mc[37m
+19:06:45.322 > load:0x403b6000,len:0x9a4
+19:06:45.322 > load:0x403ba000,len:0x2868
+19:06:45.322 > entry [37m0[37mx403b61c0
+[37m19:06:45.399 > 
+[37m19:06:45.399 > I2C Scanner
+19:06:45.399 > Scanning...
+[37m19:06:45.525 > N[37mo I2C devices found
+19:06:45.525 > 
+[37m19:06:49.523 > S[37mcanning...
+[37m19:06:49.651 > N[37mo I2C devices found
+19:06:49.651 > 
+[37m19:06:53.649 > S[37mcanning...
+[37m19:06:53.777 > N[37mo I2C devices found
+19:06:53.777 > 
+[37m19:06:57.775 > S[37mcanning...
+[37m19:06:57.903 > N[37mo I2C devices found
+19:06:57.903 > 
+[37m19:07:01.902 > S[37mcanning...
+[37m19:07:02.028 > N[37mo I2C devices found
+19:07:02.029 > 
+[37m19:07:06.028 > S[37mcanning...
+[37m19:07:06.154 > N[37mo I2C devices found
+19:07:06.159 > 
+[37m19:07:10.154 > S[37mcanning...
+[37m19:07:10.280 > N[37mo I2C devices found
+19:07:10.280 > 
