@@ -1,0 +1,1179 @@
+[37m16:40:10.063 > S[37mTARTUP
+[37m16:40:10.125 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:10.132 > B[37muild:Mar 27 2021
+16:40:10.132 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:10.137 > SPIWP:0xee
+16:40:10.137 > mode:DIO, clock div:1
+16:40:10.137 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:10.143 > load:0x403b6000,len:0x9a4
+16:40:10.143 > load:0x403ba000,len:0x2868
+16:40:10.143 > e[37mn[37mtry 0x403b61c0
+[37m16:40:10.280 > S[37mTARTUP
+[37m16:40:10.343 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:10.349 > B[37muild:Mar 27 2021
+16:40:10.349 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:10.355 > SPIWP:0xee
+16:40:10.355 > mode:DIO, clock div:1
+16:40:10.355 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:10.360 > load:0x403b6000,len:0x9a4
+16:40:10.360 > load:0x403ba000,len:0x2868
+16:40:10.360 > e[37mn[37mtry 0x403b61c0
+[37m16:40:10.499 > S[37mTARTUP
+[37m16:40:10.562 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:10.568 > B[37muild:Mar 27 2021
+16:40:10.568 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:10.573 > SPIWP:0xee
+16:40:10.573 > mode:DIO, clock div:1
+16:40:10.573 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:10.579 > load:0x403b6000,len:0x9a4
+16:40:10.579 > load:0x403ba000,len:0x2868
+16:40:10.579 > e[37mn[37mtry 0x403b61c0
+[37m16:40:10.717 > S[37mTARTUP
+[37m16:40:10.779 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:10.786 > B[37muild:Mar 27 2021
+16:40:10.786 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:10.791 > SPIWP:0xee
+16:40:10.791 > mode:DIO, clock div:1
+16:40:10.791 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:10.796 > load:0x403b6000,len:0x9a4
+16:40:10.796 > load:0x403ba000,len:0x2868
+16:40:10.796 > e[37mn[37mtry 0x403b61c0
+[37m16:40:10.934 > S[37mTARTUP
+[37m16:40:10.996 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:11.003 > B[37muild:Mar 27 2021
+16:40:11.003 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:11.009 > SPIWP:0xee
+16:40:11.009 > mode:DIO, clock div:1
+16:40:11.009 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:11.014 > load:0x403b6000,len:0x9a4
+16:40:11.014 > load:0x403ba000,len:0x2868
+16:40:11.014 > e[37mn[37mtry 0x403b61c0
+[37m16:40:11.152 > S[37mTARTUP
+[37m16:40:11.214 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:11.221 > B[37muild:Mar 27 2021
+16:40:11.221 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:11.226 > SPIWP:0xee
+16:40:11.226 > mode:DIO, clock div:1
+16:40:11.226 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:11.232 > load:0x403b6000,len:0x9a4
+16:40:11.232 > load:0x403ba000,len:0x2868
+16:40:11.232 > e[37mn[37mtry 0x403b61c0
+[37m16:40:11.370 > S[37mTARTUP
+[37m16:40:11.432 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:11.439 > B[37muild:Mar 27 2021
+16:40:11.439 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:11.444 > SPIWP:0xee
+16:40:11.444 > mode:DIO, clock div:1
+16:40:11.444 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:11.449 > load:0x403b6000,len:0x9a4
+16:40:11.449 > load:0x403ba000,len:0x2868
+16:40:11.449 > e[37mn[37mtry 0x403b61c0
+[37m16:40:11.588 > S[37mTARTUP
+[37m16:40:11.650 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:11.657 > B[37muild:Mar 27 2021
+16:40:11.657 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:11.662 > SPIWP:0xee
+16:40:11.662 > mode:DIO, clock div:1
+16:40:11.662 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:11.668 > load:0x403b6000,len:0x9a4
+16:40:11.668 > load:0x403ba000,len:0x2868
+16:40:11.668 > e[37mn[37mtry 0x403b61c0
+[37m16:40:11.805 > S[37mTARTUP
+[37m16:40:11.868 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:11.874 > B[37muild:Mar 27 2021
+16:40:11.875 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:11.880 > SPIWP:0xee
+16:40:11.880 > mode:DIO, clock div:1
+16:40:11.880 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:11.885 > load:0x403b6000,len:0x9a4
+16:40:11.885 > load:0x403ba000,len:0x2868
+16:40:11.885 > e[37mn[37mtry 0x403b61c0
+[37m16:40:12.023 > S[37mTARTUP
+[37m16:40:12.086 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:12.092 > B[37muild:Mar 27 2021
+16:40:12.092 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:12.098 > SPIWP:0xee
+16:40:12.098 > mode:DIO, clock div:1
+16:40:12.098 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:12.103 > load:0x403b6000,len:0x9a4
+16:40:12.103 > load:0x403ba000,len:0x2868
+16:40:12.103 > e[37mn[37mtry 0x403b61c0
+[37m16:40:12.241 > S[37mTARTUP
+[37m16:40:12.303 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:12.310 > B[37muild:Mar 27 2021
+16:40:12.310 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:12.316 > SPIWP:0xee
+16:40:12.316 > mode:DIO, clock div:1
+16:40:12.316 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:12.321 > load:0x403b6000,len:0x9a4
+16:40:12.321 > load:0x403ba000,len:0x2868
+16:40:12.321 > e[37mn[37mtry 0x403b61c0
+[37m16:40:12.458 > S[37mTARTUP
+[37m16:40:12.521 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:12.528 > B[37muild:Mar 27 2021
+16:40:12.528 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:12.534 > SPIWP:0xee
+16:40:12.534 > mode:DIO, clock div:1
+16:40:12.534 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:12.538 > load:0x403b6000,len:0x9a4
+16:40:12.538 > load:0x403ba000,len:0x2868
+16:40:12.538 > e[37mn[37mtry 0x403b61c0
+[37m16:40:12.677 > S[37mTARTUP
+[37m16:40:12.739 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:12.745 > B[37muild:Mar 27 2021
+16:40:12.745 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:12.751 > SPIWP:0xee
+16:40:12.751 > mode:DIO, clock div:1
+16:40:12.751 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:12.756 > load:0x403b6000,len:0x9a4
+16:40:12.756 > load:0x403ba000,len:0x2868
+16:40:12.756 > e[37mn[37mtry 0x403b61c0
+[37m16:40:12.894 > S[37mTARTUP
+[37m16:40:12.957 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:12.963 > B[37muild:Mar 27 2021
+16:40:12.963 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:12.969 > SPIWP:0xee
+16:40:12.969 > mode:DIO, clock div:1
+16:40:12.969 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:12.974 > load:0x403b6000,len:0x9a4
+16:40:12.974 > load:0x403ba000,len:0x2868
+16:40:12.974 > e[37mn[37mtry 0x403b61c0
+[37m16:40:13.112 > S[37mTARTUP
+[37m16:40:13.174 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:13.181 > B[37muild:Mar 27 2021
+16:40:13.181 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:13.187 > SPIWP:0xee
+16:40:13.187 > mode:DIO, clock div:1
+16:40:13.187 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:13.192 > load:0x403b6000,len:0x9a4
+16:40:13.192 > load:0x403ba000,len:0x2868
+16:40:13.192 > e[37mn[37mtry 0x403b61c0
+[37m16:40:13.329 > S[37mTARTUP
+[37m16:40:13.392 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:13.398 > B[37muild:Mar 27 2021
+16:40:13.398 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:13.404 > SPIWP:0xee
+16:40:13.404 > mode:DIO, clock div:1
+16:40:13.404 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:13.410 > load:0x403b6000,len:0x9a4
+16:40:13.410 > load:0x403ba000,len:0x2868
+16:40:13.410 > e[37mn[37mtry 0x403b61c0
+[37m16:40:13.548 > S[37mTARTUP
+[37m16:40:13.610 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:13.617 > B[37muild:Mar 27 2021
+16:40:13.617 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:13.623 > SPIWP:0xee
+16:40:13.623 > mode:DIO, clock div:1
+16:40:13.623 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:13.628 > load:0x403b6000,len:0x9a4
+16:40:13.628 > load:0x403ba000,len:0x2868
+16:40:13.628 > e[37mn[37mtry 0x403b61c0
+[37m16:40:13.766 > S[37mTARTUP
+[37m16:40:13.828 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:13.834 > B[37muild:Mar 27 2021
+16:40:13.834 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:13.839 > SPIWP:0xee
+16:40:13.839 > mode:DIO, clock div:1
+16:40:13.839 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:13.846 > load:0x403b6000,len:0x9a4
+16:40:13.846 > load:0x403ba000,len:0x2868
+16:40:13.846 > e[37mn[37mtry 0x403b61c0
+[37m16:40:13.983 > S[37mTARTUP
+[37m16:40:14.045 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:14.051 > B[37muild:Mar 27 2021
+16:40:14.052 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:14.058 > SPIWP:0xee
+16:40:14.058 > mode:DIO, clock div:1
+16:40:14.058 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:14.063 > load:0x403b6000,len:0x9a4
+16:40:14.063 > load:0x403ba000,len:0x2868
+16:40:14.063 > e[37mn[37mtry 0x403b61c0
+[37m16:40:14.201 > S[37mTARTUP
+[37m16:40:14.263 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:14.269 > B[37muild:Mar 27 2021
+16:40:14.269 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:14.275 > SPIWP:0xee
+16:40:14.275 > mode:DIO, clock div:1
+16:40:14.275 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:14.280 > load:0x403b6000,len:0x9a4
+16:40:14.280 > load:0x403ba000,len:0x2868
+16:40:14.280 > e[37mn[37mtry 0x403b61c0
+[37m16:40:14.419 > S[37mTARTUP
+[37m16:40:14.481 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:14.488 > B[37muild:Mar 27 2021
+16:40:14.489 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:14.493 > SPIWP:0xee
+16:40:14.493 > mode:DIO, clock div:1
+16:40:14.493 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:14.499 > load:0x403b6000,len:0x9a4
+16:40:14.499 > load:0x403ba000,len:0x2868
+16:40:14.499 > e[37mn[37mtry 0x403b61c0
+[37m16:40:14.637 > S[37mTARTUP
+[37m16:40:14.700 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:14.706 > B[37muild:Mar 27 2021
+16:40:14.707 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:14.712 > SPIWP:0xee
+16:40:14.712 > mode:DIO, clock div:1
+16:40:14.712 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:14.717 > load:0x403b6000,len:0x9a4
+16:40:14.717 > load:0x403ba000,len:0x2868
+16:40:14.717 > e[37mn[37mtry 0x403b61c0
+[37m16:40:14.855 > S[37mTARTUP
+[37m16:40:14.918 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:14.924 > B[37muild:Mar 27 2021
+16:40:14.924 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:14.929 > SPIWP:0xee
+16:40:14.929 > mode:DIO, clock div:1
+16:40:14.929 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:14.935 > load:0x403b6000,len:0x9a4
+16:40:14.935 > load:0x403ba000,len:0x2868
+16:40:14.935 > e[37mn[37mtry 0x403b61c0
+[37m16:40:15.073 > S[37mTARTUP
+[37m16:40:15.135 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:15.142 > B[37muild:Mar 27 2021
+16:40:15.142 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:15.147 > SPIWP:0xee
+16:40:15.147 > mode:DIO, clock div:1
+16:40:15.147 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:15.152 > load:0x403b6000,len:0x9a4
+16:40:15.152 > load:0x403ba000,len:0x2868
+16:40:15.152 > e[37mn[37mtry 0x403b61c0
+[37m16:40:15.290 > S[37mTARTUP
+[37m16:40:15.353 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:15.360 > B[37muild:Mar 27 2021
+16:40:15.360 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:15.366 > SPIWP:0xee
+16:40:15.366 > mode:DIO, clock div:1
+16:40:15.366 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:15.371 > load:0x403b6000,len:0x9a4
+16:40:15.371 > load:0x403ba000,len:0x2868
+16:40:15.371 > e[37mn[37mtry 0x403b61c0
+[37m16:40:15.509 > S[37mTARTUP
+[37m16:40:15.571 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:15.578 > B[37muild:Mar 27 2021
+16:40:15.578 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:15.583 > SPIWP:0xee
+16:40:15.583 > mode:DIO, clock div:1
+16:40:15.583 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:15.589 > load:0x403b6000,len:0x9a4
+16:40:15.589 > load:0x403ba000,len:0x2868
+16:40:15.589 > e[37mn[37mtry 0x403b61c0
+[37m16:40:15.727 > S[37mTARTUP
+[37m16:40:15.789 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:15.796 > B[37muild:Mar 27 2021
+16:40:15.796 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:15.801 > SPIWP:0xee
+16:40:15.801 > mode:DIO, clock div:1
+16:40:15.801 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:15.807 > load:0x403b6000,len:0x9a4
+16:40:15.807 > load:0x403ba000,len:0x2868
+16:40:15.807 > e[37mn[37mtry 0x403b61c0
+[37m16:40:15.945 > S[37mTARTUP
+[37m16:40:16.006 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:16.013 > B[37muild:Mar 27 2021
+16:40:16.013 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:16.019 > SPIWP:0xee
+16:40:16.019 > mode:DIO, clock div:1
+16:40:16.019 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:16.024 > load:0x403b6000,len:0x9a4
+16:40:16.024 > load:0x403ba000,len:0x2868
+16:40:16.024 > e[37mn[37mtry 0x403b61c0
+[37m16:40:16.162 > S[37mTARTUP
+[37m16:40:16.225 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:16.231 > B[37muild:Mar 27 2021
+16:40:16.231 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:16.236 > SPIWP:0xee
+16:40:16.236 > mode:DIO, clock div:1
+16:40:16.236 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:16.242 > load:0x403b6000,len:0x9a4
+16:40:16.242 > load:0x403ba000,len:0x2868
+16:40:16.242 > e[37mn[37mtry 0x403b61c0
+[37m16:40:16.380 > S[37mTARTUP
+[37m16:40:16.442 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:16.450 > B[37muild:Mar 27 2021
+16:40:16.450 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:16.455 > SPIWP:0xee
+16:40:16.455 > mode:DIO, clock div:1
+16:40:16.455 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:16.460 > load:0x403b6000,len:0x9a4
+16:40:16.460 > load:0x403ba000,len:0x2868
+16:40:16.460 > e[37mn[37mtry 0x403b61c0
+[37m16:40:16.598 > S[37mTARTUP
+[37m16:40:16.661 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:16.667 > B[37muild:Mar 27 2021
+16:40:16.667 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:16.672 > SPIWP:0xee
+16:40:16.672 > mode:DIO, clock div:1
+16:40:16.672 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:16.678 > load:0x403b6000,len:0x9a4
+16:40:16.678 > load:0x403ba000,len:0x2868
+16:40:16.678 > e[37mn[37mtry 0x403b61c0
+[37m16:40:16.816 > S[37mTARTUP
+[37m16:40:16.879 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:16.885 > B[37muild:Mar 27 2021
+16:40:16.885 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:16.891 > SPIWP:0xee
+16:40:16.891 > mode:DIO, clock div:1
+16:40:16.891 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:16.896 > load:0x403b6000,len:0x9a4
+16:40:16.896 > load:0x403ba000,len:0x2868
+16:40:16.896 > e[37mn[37mtry 0x403b61c0
+[37m16:40:17.034 > S[37mTARTUP
+[37m16:40:17.097 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:17.103 > B[37muild:Mar 27 2021
+16:40:17.104 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:17.109 > SPIWP:0xee
+16:40:17.109 > mode:DIO, clock div:1
+16:40:17.109 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:17.114 > load:0x403b6000,len:0x9a4
+16:40:17.114 > load:0x403ba000,len:0x2868
+16:40:17.114 > e[37mn[37mtry 0x403b61c0
+[37m16:40:17.252 > S[37mTARTUP
+[37m16:40:17.315 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:17.321 > B[37muild:Mar 27 2021
+16:40:17.321 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:17.327 > SPIWP:0xee
+16:40:17.327 > mode:DIO, clock div:1
+16:40:17.327 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:17.332 > load:0x403b6000,len:0x9a4
+16:40:17.332 > load:0x403ba000,len:0x2868
+16:40:17.332 > e[37mn[37mtry 0x403b61c0
+[37m16:40:17.470 > S[37mTARTUP
+[37m16:40:17.533 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:17.539 > B[37muild:Mar 27 2021
+16:40:17.540 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:17.545 > SPIWP:0xee
+16:40:17.545 > mode:DIO, clock div:1
+16:40:17.545 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:17.550 > load:0x403b6000,len:0x9a4
+16:40:17.550 > load:0x403ba000,len:0x2868
+16:40:17.550 > e[37mn[37mtry 0x403b61c0
+[37m16:40:17.688 > S[37mTARTUP
+[37m16:40:17.750 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:17.756 > B[37muild:Mar 27 2021
+16:40:17.756 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:17.762 > SPIWP:0xee
+16:40:17.762 > mode:DIO, clock div:1
+16:40:17.762 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:17.767 > load:0x403b6000,len:0x9a4
+16:40:17.767 > load:0x403ba000,len:0x2868
+16:40:17.767 > e[37mn[37mtry 0x403b61c0
+[37m16:40:17.906 > S[37mTARTUP
+[37m16:40:17.968 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:17.974 > B[37muild:Mar 27 2021
+16:40:17.975 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:17.981 > SPIWP:0xee
+16:40:17.981 > mode:DIO, clock div:1
+16:40:17.981 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:17.986 > load:0x403b6000,len:0x9a4
+16:40:17.986 > load:0x403ba000,len:0x2868
+16:40:17.986 > e[37mn[37mtry 0x403b61c0
+[37m16:40:18.124 > S[37mTARTUP
+[37m16:40:18.186 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:18.192 > B[37muild:Mar 27 2021
+16:40:18.193 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:18.198 > SPIWP:0xee
+16:40:18.198 > mode:DIO, clock div:1
+16:40:18.198 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:18.203 > load:0x403b6000,len:0x9a4
+16:40:18.203 > load:0x403ba000,len:0x2868
+16:40:18.203 > e[37mn[37mtry 0x403b61c0
+[37m16:40:18.342 > S[37mTARTUP
+[37m16:40:18.404 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:18.411 > B[37muild:Mar 27 2021
+16:40:18.411 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:18.416 > SPIWP:0xee
+16:40:18.416 > mode:DIO, clock div:1
+16:40:18.416 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:18.422 > load:0x403b6000,len:0x9a4
+16:40:18.422 > load:0x403ba000,len:0x2868
+16:40:18.422 > e[37mn[37mtry 0x403b61c0
+[37m16:40:18.560 > S[37mTARTUP
+[37m16:40:18.622 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:18.629 > B[37muild:Mar 27 2021
+16:40:18.629 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:18.635 > SPIWP:0xee
+16:40:18.635 > mode:DIO, clock div:1
+16:40:18.635 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:18.640 > load:0x403b6000,len:0x9a4
+16:40:18.640 > load:0x403ba000,len:0x2868
+16:40:18.640 > e[37mn[37mtry 0x403b61c0
+[37m16:40:18.778 > S[37mTARTUP
+[37m16:40:18.840 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:18.847 > B[37muild:Mar 27 2021
+16:40:18.847 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:18.852 > SPIWP:0xee
+16:40:18.852 > mode:DIO, clock div:1
+16:40:18.852 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:18.858 > load:0x403b6000,len:0x9a4
+16:40:18.858 > load:0x403ba000,len:0x2868
+16:40:18.858 > e[37mn[37mtry 0x403b61c0
+[37m16:40:18.996 > S[37mTARTUP
+[37m16:40:19.058 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:19.065 > B[37muild:Mar 27 2021
+16:40:19.065 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:19.071 > SPIWP:0xee
+16:40:19.071 > mode:DIO, clock div:1
+16:40:19.071 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:19.076 > load:0x403b6000,len:0x9a4
+16:40:19.076 > load:0x403ba000,len:0x2868
+16:40:19.076 > e[37mn[37mtry 0x403b61c0
+[37m16:40:19.214 > S[37mTARTUP
+[37m16:40:19.276 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:19.282 > B[37muild:Mar 27 2021
+16:40:19.282 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:19.288 > SPIWP:0xee
+16:40:19.288 > mode:DIO, clock div:1
+16:40:19.288 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:19.294 > load:0x403b6000,len:0x9a4
+16:40:19.294 > load:0x403ba000,len:0x2868
+16:40:19.294 > e[37mn[37mtry 0x403b61c0
+[37m16:40:19.432 > S[37mTARTUP
+[37m16:40:19.495 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:19.502 > B[37muild:Mar 27 2021
+16:40:19.502 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:19.507 > SPIWP:0xee
+16:40:19.507 > mode:DIO, clock div:1
+16:40:19.507 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:19.512 > load:0x403b6000,len:0x9a4
+16:40:19.512 > load:0x403ba000,len:0x2868
+16:40:19.512 > e[37mn[37mtry 0x403b61c0
+[37m16:40:19.650 > S[37mTARTUP
+[37m16:40:19.714 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:19.721 > B[37muild:Mar 27 2021
+16:40:19.721 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:19.727 > SPIWP:0xee
+16:40:19.727 > mode:DIO, clock div:1
+16:40:19.727 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:19.733 > load:0x403b6000,len:0x9a4
+16:40:19.733 > load:0x403ba000,len:0x2868
+16:40:19.733 > e[37mn[37mtry 0x403b61c0
+[37m16:40:19.871 > S[37mTARTUP
+[37m16:40:19.935 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:19.942 > B[37muild:Mar 27 2021
+16:40:19.942 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:19.948 > SPIWP:0xee
+16:40:19.948 > mode:DIO, clock div:1
+16:40:19.948 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:19.953 > load:0x403b6000,len:0x9a4
+16:40:19.953 > load:0x403ba000,len:0x2868
+16:40:19.953 > e[37mn[37mtry 0x403b61c0
+[37m16:40:20.231 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:20.237 > B[37muild:Mar 27 2021
+16:40:20.238 > rst:0x1 (POWERON),boot:0x8 (SPI_FAST_FLASH_BO[37mO[37mT)
+16:40:20.243 > SPIWP:0xee
+16:40:20.243 > mode:DIO, clock div:1
+16:40:20.243 > load:0x3fcd0108,len:0x39[37mc[37m
+16:40:20.249 > load:0x403b6000,len:0x9a4
+16:40:20.249 > load:0x403ba000,len:0x2868
+16:40:20.249 > entry [37m0[37mx403b61c0
+[37m16:40:20.386 > S[37mTARTUP
+[37m16:40:20.450 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:20.457 > B[37muild:Mar 27 2021
+16:40:20.457 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:20.462 > SPIWP:0xee
+16:40:20.462 > mode:DIO, clock div:1
+16:40:20.462 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:20.468 > load:0x403b6000,len:0x9a4
+16:40:20.468 > load:0x403ba000,len:0x2868
+16:40:20.468 > e[37mn[37mtry 0x403b61c0
+[37m16:40:20.605 > S[37mTARTUP
+[37m16:40:20.669 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:20.676 > B[37muild:Mar 27 2021
+16:40:20.676 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:20.682 > SPIWP:0xee
+16:40:20.682 > mode:DIO, clock div:1
+16:40:20.682 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:20.688 > load:0x403b6000,len:0x9a4
+16:40:20.688 > load:0x403ba000,len:0x2868
+16:40:20.688 > e[37mn[37mtry 0x403b61c0
+[37m16:40:20.826 > S[37mTARTUP
+[37m16:40:20.889 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:20.897 > B[37muild:Mar 27 2021
+16:40:20.897 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:20.902 > SPIWP:0xee
+16:40:20.902 > mode:DIO, clock div:1
+16:40:20.902 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:20.908 > load:0x403b6000,len:0x9a4
+16:40:20.908 > load:0x403ba000,len:0x2868
+16:40:20.908 > e[37mn[37mtry 0x403b61c0
+[37m16:40:21.046 > S[37mTARTUP
+[37m16:40:21.108 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:21.115 > B[37muild:Mar 27 2021
+16:40:21.115 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:21.121 > SPIWP:0xee
+16:40:21.121 > mode:DIO, clock div:1
+16:40:21.121 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:21.127 > load:0x403b6000,len:0x9a4
+16:40:21.127 > load:0x403ba000,len:0x2868
+16:40:21.127 > e[37mn[37mtry 0x403b61c0
+[37m16:40:21.264 > S[37mTARTUP
+[37m16:40:21.330 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:21.336 > B[37muild:Mar 27 2021
+16:40:21.336 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:21.342 > SPIWP:0xee
+16:40:21.342 > mode:DIO, clock div:1
+16:40:21.342 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:21.347 > load:0x403b6000,len:0x9a4
+16:40:21.347 > load:0x403ba000,len:0x2868
+16:40:21.347 > e[37mn[37mtry 0x403b61c0
+[37m16:40:21.485 > S[37mTARTUP
+[37m16:40:21.550 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:21.557 > B[37muild:Mar 27 2021
+16:40:21.557 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:21.562 > SPIWP:0xee
+16:40:21.562 > mode:DIO, clock div:1
+16:40:21.562 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:21.568 > load:0x403b6000,len:0x9a4
+16:40:21.568 > load:0x403ba000,len:0x2868
+16:40:21.568 > e[37mn[37mtry 0x403b61c0
+[37m16:40:21.705 > S[37mTARTUP
+[37m16:40:21.772 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:21.778 > B[37muild:Mar 27 2021
+16:40:21.778 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:21.783 > SPIWP:0xee
+16:40:21.783 > mode:DIO, clock div:1
+16:40:21.783 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:21.790 > load:0x403b6000,len:0x9a4
+16:40:21.790 > load:0x403ba000,len:0x2868
+16:40:21.790 > e[37mn[37mtry 0x403b61c0
+[37m16:40:21.927 > S[37mTARTUP
+[37m16:40:21.992 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:21.999 > B[37muild:Mar 27 2021
+16:40:21.999 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:22.004 > SPIWP:0xee
+16:40:22.004 > mode:DIO, clock div:1
+16:40:22.004 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:22.010 > load:0x403b6000,len:0x9a4
+16:40:22.010 > load:0x403ba000,len:0x2868
+16:40:22.010 > e[37mn[37mtry 0x403b61c0
+[37m16:40:22.148 > S[37mTARTUP
+[37m16:40:22.213 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:22.219 > B[37muild:Mar 27 2021
+16:40:22.219 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:22.225 > SPIWP:0xee
+16:40:22.225 > mode:DIO, clock div:1
+16:40:22.225 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:22.231 > load:0x403b6000,len:0x9a4
+16:40:22.231 > load:0x403ba000,len:0x2868
+16:40:22.231 > e[37mn[37mtry 0x403b61c0
+[37m16:40:22.368 > S[37mTARTUP
+[37m16:40:22.434 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:22.441 > B[37muild:Mar 27 2021
+16:40:22.441 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:22.446 > SPIWP:0xee
+16:40:22.446 > mode:DIO, clock div:1
+16:40:22.446 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:22.452 > load:0x403b6000,len:0x9a4
+16:40:22.452 > load:0x403ba000,len:0x2868
+16:40:22.452 > e[37mn[37mtry 0x403b61c0
+[37m16:40:22.590 > S[37mTARTUP
+[37m16:40:22.655 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:22.662 > B[37muild:Mar 27 2021
+16:40:22.662 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:22.667 > SPIWP:0xee
+16:40:22.667 > mode:DIO, clock div:1
+16:40:22.667 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:22.673 > load:0x403b6000,len:0x9a4
+16:40:22.673 > load:0x403ba000,len:0x2868
+16:40:22.673 > e[37mn[37mtry 0x403b61c0
+[37m16:40:22.811 > S[37mTARTUP
+[37m16:40:22.876 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:22.882 > B[37muild:Mar 27 2021
+16:40:22.883 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:22.888 > SPIWP:0xee
+16:40:22.888 > mode:DIO, clock div:1
+16:40:22.888 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:22.893 > load:0x403b6000,len:0x9a4
+16:40:22.893 > load:0x403ba000,len:0x2868
+16:40:22.893 > e[37mn[37mtry 0x403b61c0
+[37m16:40:23.031 > S[37mTARTUP
+[37m16:40:23.096 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:23.103 > B[37muild:Mar 27 2021
+16:40:23.103 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:23.109 > SPIWP:0xee
+16:40:23.109 > mode:DIO, clock div:1
+16:40:23.109 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:23.114 > load:0x403b6000,len:0x9a4
+16:40:23.114 > load:0x403ba000,len:0x2868
+16:40:23.114 > e[37mn[37mtry 0x403b61c0
+[37m16:40:23.252 > S[37mTARTUP
+[37m16:40:23.317 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:23.324 > B[37muild:Mar 27 2021
+16:40:23.324 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:23.330 > SPIWP:0xee
+16:40:23.330 > mode:DIO, clock div:1
+16:40:23.330 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:23.335 > load:0x403b6000,len:0x9a4
+16:40:23.335 > load:0x403ba000,len:0x2868
+16:40:23.335 > e[37mn[37mtry 0x403b61c0
+[37m16:40:23.473 > S[37mTARTUP
+[37m16:40:23.537 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:23.545 > B[37muild:Mar 27 2021
+16:40:23.545 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:23.550 > SPIWP:0xee
+16:40:23.550 > mode:DIO, clock div:1
+16:40:23.550 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:23.556 > load:0x403b6000,len:0x9a4
+16:40:23.556 > load:0x403ba000,len:0x2868
+16:40:23.556 > e[37mn[37mtry 0x403b61c0
+[37m16:40:23.693 > S[37mTARTUP
+[37m16:40:23.759 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:23.765 > B[37muild:Mar 27 2021
+16:40:23.765 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:23.771 > SPIWP:0xee
+16:40:23.771 > mode:DIO, clock div:1
+16:40:23.771 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:23.776 > load:0x403b6000,len:0x9a4
+16:40:23.776 > load:0x403ba000,len:0x2868
+16:40:23.776 > e[37mn[37mtry 0x403b61c0
+[37m16:40:23.915 > S[37mTARTUP
+[37m16:40:23.980 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:23.987 > B[37muild:Mar 27 2021
+16:40:23.987 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:23.992 > SPIWP:0xee
+16:40:23.992 > mode:DIO, clock div:1
+16:40:23.992 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:23.998 > load:0x403b6000,len:0x9a4
+16:40:23.998 > load:0x403ba000,len:0x2868
+16:40:23.998 > e[37mn[37mtry 0x403b61c0
+[37m16:40:24.136 > S[37mTARTUP
+[37m16:40:24.201 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:24.207 > B[37muild:Mar 27 2021
+16:40:24.208 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:24.214 > SPIWP:0xee
+16:40:24.214 > mode:DIO, clock div:1
+16:40:24.214 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:24.219 > load:0x403b6000,len:0x9a4
+16:40:24.219 > load:0x403ba000,len:0x2868
+16:40:24.219 > e[37mn[37mtry 0x403b61c0
+[37m16:40:24.356 > S[37mTARTUP
+[37m16:40:24.421 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:24.428 > B[37muild:Mar 27 2021
+16:40:24.428 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:24.433 > SPIWP:0xee
+16:40:24.433 > mode:DIO, clock div:1
+16:40:24.433 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:24.439 > load:0x403b6000,len:0x9a4
+16:40:24.439 > load:0x403ba000,len:0x2868
+16:40:24.439 > e[37mn[37mtry 0x403b61c0
+[37m16:40:24.577 > S[37mTARTUP
+[37m16:40:24.641 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:24.648 > B[37muild:Mar 27 2021
+16:40:24.648 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:24.653 > SPIWP:0xee
+16:40:24.653 > mode:DIO, clock div:1
+16:40:24.653 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:24.658 > load:0x403b6000,len:0x9a4
+16:40:24.658 > load:0x403ba000,len:0x2868
+16:40:24.658 > e[37mn[37mtry 0x403b61c0
+[37m16:40:24.796 > S[37mTARTUP
+[37m16:40:24.860 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:24.867 > B[37muild:Mar 27 2021
+16:40:24.867 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:24.872 > SPIWP:0xee
+16:40:24.872 > mode:DIO, clock div:1
+16:40:24.872 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:24.878 > load:0x403b6000,len:0x9a4
+16:40:24.878 > load:0x403ba000,len:0x2868
+16:40:24.878 > e[37mn[37mtry 0x403b61c0
+[37m16:40:25.016 > S[37mTARTUP
+[37m16:40:25.078 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:25.085 > B[37muild:Mar 27 2021
+16:40:25.085 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:25.091 > SPIWP:0xee
+16:40:25.091 > mode:DIO, clock div:1
+16:40:25.091 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:25.096 > load:0x403b6000,len:0x9a4
+16:40:25.096 > load:0x403ba000,len:0x2868
+16:40:25.096 > e[37mn[37mtry 0x403b61c0
+[37m16:40:25.234 > S[37mTARTUP
+[37m16:40:25.297 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:25.303 > B[37muild:Mar 27 2021
+16:40:25.303 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:25.309 > SPIWP:0xee
+16:40:25.309 > mode:DIO, clock div:1
+16:40:25.309 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:25.314 > load:0x403b6000,len:0x9a4
+16:40:25.314 > load:0x403ba000,len:0x2868
+16:40:25.314 > e[37mn[37mtry 0x403b61c0
+[37m16:40:25.452 > S[37mTARTUP
+[37m16:40:25.514 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:25.520 > B[37muild:Mar 27 2021
+16:40:25.521 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:25.526 > SPIWP:0xee
+16:40:25.526 > mode:DIO, clock div:1
+16:40:25.526 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:25.532 > load:0x403b6000,len:0x9a4
+16:40:25.532 > load:0x403ba000,len:0x2868
+16:40:25.532 > e[37mn[37mtry 0x403b61c0
+[37m16:40:25.670 > S[37mTARTUP
+[37m16:40:25.732 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:25.739 > B[37muild:Mar 27 2021
+16:40:25.739 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:25.744 > SPIWP:0xee
+16:40:25.744 > mode:DIO, clock div:1
+16:40:25.744 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:25.750 > load:0x403b6000,len:0x9a4
+16:40:25.750 > load:0x403ba000,len:0x2868
+16:40:25.750 > e[37mn[37mtry 0x403b61c0
+[37m16:40:25.887 > S[37mTARTUP
+[37m16:40:25.950 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:25.956 > B[37muild:Mar 27 2021
+16:40:25.956 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:25.962 > SPIWP:0xee
+16:40:25.962 > mode:DIO, clock div:1
+16:40:25.962 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:25.968 > load:0x403b6000,len:0x9a4
+16:40:25.968 > load:0x403ba000,len:0x2868
+16:40:25.968 > e[37mn[37mtry 0x403b61c0
+[37m16:40:26.106 > S[37mTARTUP
+[37m16:40:26.168 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:26.174 > B[37muild:Mar 27 2021
+16:40:26.174 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:26.180 > SPIWP:0xee
+16:40:26.180 > mode:DIO, clock div:1
+16:40:26.180 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:26.185 > load:0x403b6000,len:0x9a4
+16:40:26.185 > load:0x403ba000,len:0x2868
+16:40:26.185 > e[37mn[37mtry 0x403b61c0
+[37m16:40:26.323 > S[37mTARTUP
+[37m16:40:26.387 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:26.393 > B[37muild:Mar 27 2021
+16:40:26.394 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:26.399 > SPIWP:0xee
+16:40:26.399 > mode:DIO, clock div:1
+16:40:26.399 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:26.404 > load:0x403b6000,len:0x9a4
+16:40:26.404 > load:0x403ba000,len:0x2868
+16:40:26.404 > e[37mn[37mtry 0x403b61c0
+[37m16:40:26.542 > S[37mTARTUP
+[37m16:40:26.604 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:26.611 > B[37muild:Mar 27 2021
+16:40:26.611 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:26.616 > SPIWP:0xee
+16:40:26.616 > mode:DIO, clock div:1
+16:40:26.616 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:26.622 > load:0x403b6000,len:0x9a4
+16:40:26.622 > load:0x403ba000,len:0x2868
+16:40:26.622 > e[37mn[37mtry 0x403b61c0
+[37m16:40:26.760 > S[37mTARTUP
+[37m16:40:26.822 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:26.828 > B[37muild:Mar 27 2021
+16:40:26.828 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:26.834 > SPIWP:0xee
+16:40:26.834 > mode:DIO, clock div:1
+16:40:26.834 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:26.840 > load:0x403b6000,len:0x9a4
+16:40:26.840 > load:0x403ba000,len:0x2868
+16:40:26.840 > e[37mn[37mtry 0x403b61c0
+[37m16:40:26.978 > S[37mTARTUP
+[37m16:40:27.040 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:27.046 > B[37muild:Mar 27 2021
+16:40:27.046 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:27.052 > SPIWP:0xee
+16:40:27.052 > mode:DIO, clock div:1
+16:40:27.052 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:27.057 > load:0x403b6000,len:0x9a4
+16:40:27.057 > load:0x403ba000,len:0x2868
+16:40:27.057 > e[37mn[37mtry 0x403b61c0
+[37m16:40:27.196 > S[37mTARTUP
+[37m16:40:27.259 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:27.265 > B[37muild:Mar 27 2021
+16:40:27.265 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:27.271 > SPIWP:0xee
+16:40:27.271 > mode:DIO, clock div:1
+16:40:27.271 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:27.277 > load:0x403b6000,len:0x9a4
+16:40:27.277 > load:0x403ba000,len:0x2868
+16:40:27.277 > e[37mn[37mtry 0x403b61c0
+[37m16:40:27.414 > S[37mTARTUP
+[37m16:40:27.480 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:27.486 > B[37muild:Mar 27 2021
+16:40:27.486 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:27.492 > SPIWP:0xee
+16:40:27.492 > mode:DIO, clock div:1
+16:40:27.492 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:27.498 > load:0x403b6000,len:0x9a4
+16:40:27.498 > load:0x403ba000,len:0x2868
+16:40:27.498 > e[37mn[37mtry 0x403b61c0
+[37m16:40:27.636 > S[37mTARTUP
+[37m16:40:27.700 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:27.707 > B[37muild:Mar 27 2021
+16:40:27.707 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:27.712 > SPIWP:0xee
+16:40:27.712 > mode:DIO, clock div:1
+16:40:27.712 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:27.718 > load:0x403b6000,len:0x9a4
+16:40:27.718 > load:0x403ba000,len:0x2868
+16:40:27.718 > e[37mn[37mtry 0x403b61c0
+[37m16:40:27.856 > S[37mTARTUP
+[37m16:40:27.921 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:27.928 > B[37muild:Mar 27 2021
+16:40:27.928 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:27.933 > SPIWP:0xee
+16:40:27.933 > mode:DIO, clock div:1
+16:40:27.933 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:27.939 > load:0x403b6000,len:0x9a4
+16:40:27.939 > load:0x403ba000,len:0x2868
+16:40:27.939 > e[37mn[37mtry 0x403b61c0
+[37m16:40:28.077 > S[37mTARTUP
+[37m16:40:28.140 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:28.147 > B[37muild:Mar 27 2021
+16:40:28.147 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:28.153 > SPIWP:0xee
+16:40:28.153 > mode:DIO, clock div:1
+16:40:28.153 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:28.158 > load:0x403b6000,len:0x9a4
+16:40:28.158 > load:0x403ba000,len:0x2868
+16:40:28.158 > e[37mn[37mtry 0x403b61c0
+[37m16:40:28.296 > S[37mTARTUP
+[37m16:40:28.358 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:28.364 > B[37muild:Mar 27 2021
+16:40:28.364 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:28.370 > SPIWP:0xee
+16:40:28.370 > mode:DIO, clock div:1
+16:40:28.370 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:28.376 > load:0x403b6000,len:0x9a4
+16:40:28.376 > load:0x403ba000,len:0x2868
+16:40:28.376 > e[37mn[37mtry 0x403b61c0
+[37m16:40:28.514 > S[37mTARTUP
+[37m16:40:28.576 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:28.583 > B[37muild:Mar 27 2021
+16:40:28.583 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:28.589 > SPIWP:0xee
+16:40:28.589 > mode:DIO, clock div:1
+16:40:28.589 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:28.594 > load:0x403b6000,len:0x9a4
+16:40:28.594 > load:0x403ba000,len:0x2868
+16:40:28.594 > e[37mn[37mtry 0x403b61c0
+[37m16:40:28.732 > S[37mTARTUP
+[37m16:40:28.795 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:28.802 > B[37muild:Mar 27 2021
+16:40:28.802 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:28.808 > SPIWP:0xee
+16:40:28.808 > mode:DIO, clock div:1
+16:40:28.808 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:28.813 > load:0x403b6000,len:0x9a4
+16:40:28.813 > load:0x403ba000,len:0x2868
+16:40:28.813 > e[37mn[37mtry 0x403b61c0
+[37m16:40:28.951 > S[37mTARTUP
+[37m16:40:29.016 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:29.022 > B[37muild:Mar 27 2021
+16:40:29.022 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:29.028 > SPIWP:0xee
+16:40:29.028 > mode:DIO, clock div:1
+16:40:29.028 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:29.033 > load:0x403b6000,len:0x9a4
+16:40:29.033 > load:0x403ba000,len:0x2868
+16:40:29.033 > e[37mn[37mtry 0x403b61c0
+[37m16:40:29.171 > S[37mTARTUP
+[37m16:40:29.236 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:29.243 > B[37muild:Mar 27 2021
+16:40:29.243 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:29.248 > SPIWP:0xee
+16:40:29.248 > mode:DIO, clock div:1
+16:40:29.248 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:29.253 > load:0x403b6000,len:0x9a4
+16:40:29.253 > load:0x403ba000,len:0x2868
+16:40:29.253 > e[37mn[37mtry 0x403b61c0
+[37m16:40:29.391 > S[37mTARTUP
+[37m16:40:29.456 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:29.463 > B[37muild:Mar 27 2021
+16:40:29.463 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:29.468 > SPIWP:0xee
+16:40:29.468 > mode:DIO, clock div:1
+16:40:29.468 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:29.474 > load:0x403b6000,len:0x9a4
+16:40:29.474 > load:0x403ba000,len:0x2868
+16:40:29.474 > e[37mn[37mtry 0x403b61c0
+[37m16:40:29.611 > S[37mTARTUP
+[37m16:40:29.677 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:29.683 > B[37muild:Mar 27 2021
+16:40:29.683 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:29.689 > SPIWP:0xee
+16:40:29.689 > mode:DIO, clock div:1
+16:40:29.689 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:29.694 > load:0x403b6000,len:0x9a4
+16:40:29.694 > load:0x403ba000,len:0x2868
+16:40:29.694 > e[37mn[37mtry 0x403b61c0
+[37m16:40:29.831 > S[37mTARTUP
+[37m16:40:29.896 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:29.903 > B[37muild:Mar 27 2021
+16:40:29.903 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:29.909 > SPIWP:0xee
+16:40:29.909 > mode:DIO, clock div:1
+16:40:29.909 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:29.914 > load:0x403b6000,len:0x9a4
+16:40:29.914 > load:0x403ba000,len:0x2868
+16:40:29.914 > e[37mn[37mtry 0x403b61c0
+[37m16:40:30.052 > S[37mTARTUP
+[37m16:40:30.116 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:30.122 > B[37muild:Mar 27 2021
+16:40:30.123 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:30.127 > SPIWP:0xee
+16:40:30.127 > mode:DIO, clock div:1
+16:40:30.127 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:30.133 > load:0x403b6000,len:0x9a4
+16:40:30.133 > load:0x403ba000,len:0x2868
+16:40:30.133 > e[37mn[37mtry 0x403b61c0
+[37m16:40:30.271 > S[37mTARTUP
+[37m16:40:30.333 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:30.340 > B[37muild:Mar 27 2021
+16:40:30.340 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:30.345 > SPIWP:0xee
+16:40:30.345 > mode:DIO, clock div:1
+16:40:30.345 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:30.351 > load:0x403b6000,len:0x9a4
+16:40:30.351 > load:0x403ba000,len:0x2868
+16:40:30.351 > e[37mn[37mtry 0x403b61c0
+[37m16:40:30.489 > S[37mTARTUP
+[37m16:40:30.551 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:30.557 > B[37muild:Mar 27 2021
+16:40:30.558 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:30.563 > SPIWP:0xee
+16:40:30.563 > mode:DIO, clock div:1
+16:40:30.563 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:30.568 > load:0x403b6000,len:0x9a4
+16:40:30.568 > load:0x403ba000,len:0x2868
+16:40:30.568 > e[37mn[37mtry 0x403b61c0
+[37m16:40:30.706 > S[37mTARTUP
+[37m16:40:30.769 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:30.776 > B[37muild:Mar 27 2021
+16:40:30.776 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:30.781 > SPIWP:0xee
+16:40:30.781 > mode:DIO, clock div:1
+16:40:30.781 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:30.786 > load:0x403b6000,len:0x9a4
+16:40:30.786 > load:0x403ba000,len:0x2868
+16:40:30.786 > e[37mn[37mtry 0x403b61c0
+[37m16:40:30.925 > S[37mTARTUP
+[37m16:40:30.987 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:30.994 > B[37muild:Mar 27 2021
+16:40:30.994 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:30.999 > SPIWP:0xee
+16:40:30.999 > mode:DIO, clock div:1
+16:40:30.999 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:31.004 > load:0x403b6000,len:0x9a4
+16:40:31.004 > load:0x403ba000,len:0x2868
+16:40:31.004 > e[37mn[37mtry 0x403b61c0
+[37m16:40:31.143 > S[37mTARTUP
+[37m16:40:31.205 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:31.212 > B[37muild:Mar 27 2021
+16:40:31.212 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:31.218 > SPIWP:0xee
+16:40:31.218 > mode:DIO, clock div:1
+16:40:31.218 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:31.222 > load:0x403b6000,len:0x9a4
+16:40:31.222 > load:0x403ba000,len:0x2868
+16:40:31.222 > e[37mn[37mtry 0x403b61c0
+[37m16:40:31.361 > S[37mTARTUP
+[37m16:40:31.422 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:31.429 > B[37muild:Mar 27 2021
+16:40:31.429 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:31.434 > SPIWP:0xee
+16:40:31.434 > mode:DIO, clock div:1
+16:40:31.434 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:31.440 > load:0x403b6000,len:0x9a4
+16:40:31.440 > load:0x403ba000,len:0x2868
+16:40:31.440 > e[37mn[37mtry 0x403b61c0
+[37m16:40:31.578 > S[37mTARTUP
+[37m16:40:31.640 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:31.647 > B[37muild:Mar 27 2021
+16:40:31.647 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:31.652 > SPIWP:0xee
+16:40:31.652 > mode:DIO, clock div:1
+16:40:31.652 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:31.658 > load:0x403b6000,len:0x9a4
+16:40:31.658 > load:0x403ba000,len:0x2868
+16:40:31.658 > e[37mn[37mtry 0x403b61c0
+[37m16:40:31.796 > S[37mTARTUP
+[37m16:40:31.858 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:31.864 > B[37muild:Mar 27 2021
+16:40:31.864 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:31.870 > SPIWP:0xee
+16:40:31.870 > mode:DIO, clock div:1
+16:40:31.870 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:31.876 > load:0x403b6000,len:0x9a4
+16:40:31.876 > load:0x403ba000,len:0x2868
+16:40:31.876 > e[37mn[37mtry 0x403b61c0
+[37m16:40:32.014 > S[37mTARTUP
+[37m16:40:32.076 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:32.082 > B[37muild:Mar 27 2021
+16:40:32.082 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:32.088 > SPIWP:0xee
+16:40:32.088 > mode:DIO, clock div:1
+16:40:32.088 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:32.094 > load:0x403b6000,len:0x9a4
+16:40:32.094 > load:0x403ba000,len:0x2868
+16:40:32.094 > e[37mn[37mtry 0x403b61c0
+[37m16:40:32.231 > S[37mTARTUP
+[37m16:40:32.294 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:32.300 > B[37muild:Mar 27 2021
+16:40:32.300 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:32.306 > SPIWP:0xee
+16:40:32.306 > mode:DIO, clock div:1
+16:40:32.306 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:32.312 > load:0x403b6000,len:0x9a4
+16:40:32.312 > load:0x403ba000,len:0x2868
+16:40:32.312 > e[37mn[37mtry 0x403b61c0
+[37m16:40:32.449 > S[37mTARTUP
+[37m16:40:32.512 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:32.519 > B[37muild:Mar 27 2021
+16:40:32.519 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:32.525 > SPIWP:0xee
+16:40:32.525 > mode:DIO, clock div:1
+16:40:32.525 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:32.530 > load:0x403b6000,len:0x9a4
+16:40:32.530 > load:0x403ba000,len:0x2868
+16:40:32.530 > e[37mn[37mtry 0x403b61c0
+[37m16:40:32.668 > S[37mTARTUP
+[37m16:40:32.732 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:32.739 > B[37muild:Mar 27 2021
+16:40:32.739 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:32.744 > SPIWP:0xee
+16:40:32.744 > mode:DIO, clock div:1
+16:40:32.744 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:32.750 > load:0x403b6000,len:0x9a4
+16:40:32.750 > load:0x403ba000,len:0x2868
+16:40:32.750 > e[37mn[37mtry 0x403b61c0
+[37m16:40:32.887 > S[37mTARTUP
+[37m16:40:32.953 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:32.959 > B[37muild:Mar 27 2021
+16:40:32.959 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:32.965 > SPIWP:0xee
+16:40:32.965 > mode:DIO, clock div:1
+16:40:32.965 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:32.970 > load:0x403b6000,len:0x9a4
+16:40:32.970 > load:0x403ba000,len:0x2868
+16:40:32.970 > e[37mn[37mtry 0x403b61c0
+[37m16:40:33.107 > S[37mTARTUP
+[37m16:40:33.172 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:33.178 > B[37muild:Mar 27 2021
+16:40:33.178 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:33.183 > SPIWP:0xee
+16:40:33.183 > mode:DIO, clock div:1
+16:40:33.183 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:33.189 > load:0x403b6000,len:0x9a4
+16:40:33.189 > load:0x403ba000,len:0x2868
+16:40:33.189 > e[37mn[37mtry 0x403b61c0
+[37m16:40:33.327 > S[37mTARTUP
+[37m16:40:33.389 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:33.397 > B[37muild:Mar 27 2021
+16:40:33.397 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:33.402 > SPIWP:0xee
+16:40:33.402 > mode:DIO, clock div:1
+16:40:33.402 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:33.408 > load:0x403b6000,len:0x9a4
+16:40:33.408 > load:0x403ba000,len:0x2868
+16:40:33.408 > e[37mn[37mtry 0x403b61c0
+[37m16:40:33.546 > S[37mTARTUP
+[37m16:40:33.609 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:33.615 > B[37muild:Mar 27 2021
+16:40:33.616 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:33.621 > SPIWP:0xee
+16:40:33.621 > mode:DIO, clock div:1
+16:40:33.621 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:33.627 > load:0x403b6000,len:0x9a4
+16:40:33.627 > load:0x403ba000,len:0x2868
+16:40:33.627 > e[37mn[37mtry 0x403b61c0
+[37m16:40:33.765 > S[37mTARTUP
+[37m16:40:33.829 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:33.836 > B[37muild:Mar 27 2021
+16:40:33.836 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:33.841 > SPIWP:0xee
+16:40:33.841 > mode:DIO, clock div:1
+16:40:33.841 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:33.847 > load:0x403b6000,len:0x9a4
+16:40:33.847 > load:0x403ba000,len:0x2868
+16:40:33.847 > e[37mn[37mtry 0x403b61c0
+[37m16:40:33.985 > S[37mTARTUP
+[37m16:40:34.047 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:34.054 > B[37muild:Mar 27 2021
+16:40:34.054 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:34.060 > SPIWP:0xee
+16:40:34.060 > mode:DIO, clock div:1
+16:40:34.060 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:34.065 > load:0x403b6000,len:0x9a4
+16:40:34.065 > load:0x403ba000,len:0x2868
+16:40:34.065 > e[37mn[37mtry 0x403b61c0
+[37m16:40:34.203 > S[37mTARTUP
+[37m16:40:34.267 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:34.273 > B[37muild:Mar 27 2021
+16:40:34.273 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:34.279 > SPIWP:0xee
+16:40:34.279 > mode:DIO, clock div:1
+16:40:34.279 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:34.284 > load:0x403b6000,len:0x9a4
+16:40:34.284 > load:0x403ba000,len:0x2868
+16:40:34.284 > e[37mn[37mtry 0x403b61c0
+[37m16:40:34.422 > S[37mTARTUP
+[37m16:40:34.485 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:34.491 > B[37muild:Mar 27 2021
+16:40:34.491 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:34.497 > SPIWP:0xee
+16:40:34.497 > mode:DIO, clock div:1
+16:40:34.497 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:34.502 > load:0x403b6000,len:0x9a4
+16:40:34.502 > load:0x403ba000,len:0x2868
+16:40:34.502 > e[37mn[37mtry 0x403b61c0
+[37m16:40:34.640 > S[37mTARTUP
+[37m16:40:34.706 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:34.712 > B[37muild:Mar 27 2021
+16:40:34.712 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:34.718 > SPIWP:0xee
+16:40:34.718 > mode:DIO, clock div:1
+16:40:34.718 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:34.723 > load:0x403b6000,len:0x9a4
+16:40:34.723 > load:0x403ba000,len:0x2868
+16:40:34.723 > e[37mn[37mtry 0x403b61c0
+[37m16:40:34.861 > S[37mTARTUP
+[37m16:40:34.926 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:34.933 > B[37muild:Mar 27 2021
+16:40:34.933 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:34.939 > SPIWP:0xee
+16:40:34.939 > mode:DIO, clock div:1
+16:40:34.939 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:34.944 > load:0x403b6000,len:0x9a4
+16:40:34.944 > load:0x403ba000,len:0x2868
+16:40:34.944 > e[37mn[37mtry 0x403b61c0
+[37m16:40:35.082 > S[37mTARTUP
+[37m16:40:35.147 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:35.154 > B[37muild:Mar 27 2021
+16:40:35.154 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:35.159 > SPIWP:0xee
+16:40:35.159 > mode:DIO, clock div:1
+16:40:35.159 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:35.165 > load:0x403b6000,len:0x9a4
+16:40:35.165 > load:0x403ba000,len:0x2868
+16:40:35.165 > e[37mn[37mtry 0x403b61c0
+[37m16:40:35.303 > S[37mTARTUP
+[37m16:40:35.368 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:35.375 > B[37muild:Mar 27 2021
+16:40:35.375 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:35.380 > SPIWP:0xee
+16:40:35.380 > mode:DIO, clock div:1
+16:40:35.380 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:35.386 > load:0x403b6000,len:0x9a4
+16:40:35.386 > load:0x403ba000,len:0x2868
+16:40:35.386 > e[37mn[37mtry 0x403b61c0
+[37m16:40:35.524 > S[37mTARTUP
+[37m16:40:35.587 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:35.593 > B[37muild:Mar 27 2021
+16:40:35.594 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:35.599 > SPIWP:0xee
+16:40:35.599 > mode:DIO, clock div:1
+16:40:35.599 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:35.605 > load:0x403b6000,len:0x9a4
+16:40:35.605 > load:0x403ba000,len:0x2868
+16:40:35.605 > e[37mn[37mtry 0x403b61c0
+[37m16:40:35.743 > S[37mTARTUP
+[37m16:40:35.806 > E[37mSP-ROM:esp32s3-20210327
+[37m16:40:35.812 > B[37muild:Mar 27 2021
+16:40:35.812 > rst:0xf (BROWNOUT_RST),boot:0x8 (SPI_FAST_FLA[37mS[37mH_BOOT)
+16:40:35.818 > SPIWP:0xee
+16:40:35.818 > mode:DIO, clock div:1
+16:40:35.818 > load:0x3fcd0108,len[37m:[37m0x39c
+16:40:35.823 > load:0x403b6000,len:0x9a4
+16:40:35.823 > load:0x403ba000,len:0x2868
+16:40:35.823 > e[37mn[37mtry 0x403b61c0

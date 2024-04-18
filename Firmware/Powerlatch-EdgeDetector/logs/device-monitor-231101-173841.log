@@ -1,0 +1,20 @@
+[37m17:38:45.687 > E[37mSP-ROM:esp32s3-20210327
+[37m17:38:45.694 > B[37muild:Mar 27 2021
+17:38:45.694 > rst:0x1 (POWERON),boot:0xa (SPI_FAST_FLASH_BO[37mO[37mT)
+17:38:45.700 > SPIWP:0xee
+17:38:45.700 > mode:DIO, clock div:1
+17:38:45.700 > load:0x3fcd0108,len:0x43[37mc[37m
+17:38:45.704 > load:0x403b6000,len:0xbd0
+17:38:45.704 > load:0x403ba000,len:0x29c8
+17:38:45.704 > entry [37m0[37mx403b61d8
+[37m17:38:45.774 > 1[37m7:34:0   1/11/2024
+[37m17:41:48.395 > E[37mSP-ROM:esp32s3-20210327
+[37m17:41:48.403 > B[37muild:Mar 27 2021
+17:41:48.403 > rst:0x1 (POWERON),boot:0xa (SPI_FAST_FLASH_BO[37mO[37mT)
+17:41:48.408 > SPIWP:0xee
+17:41:48.408 > mode:DIO, clock div:1
+17:41:48.408 > load:0x3fcd0108,len:0x43[37mc[37m
+17:41:48.413 > load:0x403b6000,len:0xbd0
+17:41:48.413 > load:0x403ba000,len:0x29c8
+17:41:48.413 > entry [37m0[37mx403b61d8
+[37m17:41:48.483 > 1[37m7:34:0   1/11/2024

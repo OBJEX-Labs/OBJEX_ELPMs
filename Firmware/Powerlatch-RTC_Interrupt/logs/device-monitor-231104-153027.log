@@ -1,0 +1,24 @@
+[37m15:30:30.216 > 1[37m7:34:15   1/11/2024
+[37m15:30:35.219 > 1[37m7:34:20   1/11/2024
+[37m15:30:40.222 > 1[37m7:34:25   1/11/2024
+[37m15:30:41.902 > E[37mSP-ROM:esp32s3-20210327
+[37m15:30:41.908 > B[37muild:Mar 27 2021
+15:30:41.909 > rst:0x1 (POWERON),boot:0x2a (SPI_FAST_FLASH_B[37mO[37mOT)
+15:30:41.914 > SPIWP:0xee
+15:30:41.914 > mode:DIO, clock div:1
+15:30:41.914 > load:0x3fcd0108,len:0x3[37m9[37mc
+15:30:41.920 > load:0x403b6000,len:0x9a4
+15:30:41.920 > load:0x403ba000,len:0x2868
+15:30:41.920 > entry[37m [37m0x403b61c0
+[37m15:30:42.001 > W[37mriting value: 4 to eeprom register at address: 37
+[37m15:30:42.011 > R[37meading eeprom register at address: 37
+15:30:42.011 > Value: 4
+15:30:42.011 > Writing value:[37m [37m45 to eeprom register at address: 35
+[37m15:30:42.023 > R[37meading eeprom register at address: 35
+15:30:42.023 > Value: 4
+15:30:42.023 > Writing value:[37m [37m12 to eeprom register at address: 27
+[37m15:30:42.036 > R[37meading eeprom register at address: 27
+15:30:42.036 > Value: 55
+[37m15:30:42.044 > 1[37m7:34:0   1/11/2024
+[37m15:30:47.047 > 1[37m7:34:5   1/11/2024
+[37m15:30:52.051 > 1[37m7:34:10   1/11/2024
