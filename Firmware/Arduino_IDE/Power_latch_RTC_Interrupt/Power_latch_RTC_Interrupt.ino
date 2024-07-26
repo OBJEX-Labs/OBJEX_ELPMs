@@ -15,7 +15,7 @@ Melopero_RV3028 rtc;
 
 #define PIN        48  // GPIO connected to RGB status led (WS2812B)
 #define LED_COUNT   1
-Adafruit_NeoPixel pixels(LED_COUNT, PIN, NEO_GRB + NEO_KHZ800);  // Create a Adafruit_NeoPixel object to control the LED
+Adafruit_NeoPixel led(LED_COUNT, PIN, NEO_GRB + NEO_KHZ800);  // Create a Adafruit_NeoPixel object to control the LED
 
 #define AUTO_TURN_OFF 14  // GPIO connected to power latch
 #define BattLVL 7  // GPIO connected to battery level circuit
@@ -27,12 +27,12 @@ void setup() {
   
   // Start serial communication
   Serial.begin(115200);
-  Serial.println("Power latch RTC Interrupt")
+  Serial.println("Power latch RTC Interrupt");
 
   // Initialize NeoPixel library
   led.begin();  // Initialize NeoPixel led object
-  pixels.setPixelColor(0, pixels.Color(0, 50, 0));  // Set a color following RGB standard (R,G,B) ranging from 0 to 255 
-  pixels.show();
+  led.setPixelColor(0, led.Color(0, 50, 0));  // Set a color following RGB standard (R,G,B) ranging from 0 to 255 
+  led.show();
   
   Wire.begin(8, 9); // SDA | SCL
   
@@ -75,7 +75,7 @@ void setup() {
   Serial.println(rtc.getYear());
   
   delay(1000);
-  digitalWrite(AUTO_TURN_OFF, LOW);  /
+  digitalWrite(AUTO_TURN_OFF, LOW);
 }
 
 void loop() {

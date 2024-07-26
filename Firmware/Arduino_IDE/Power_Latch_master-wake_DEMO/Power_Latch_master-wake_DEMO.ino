@@ -28,8 +28,9 @@ void setup() {
 
   // Initialize NeoPixel library
   led.begin();  // Initialize NeoPixel led object
-  pixels.setPixelColor(0, pixels.Color(0, 50, 0));  // Set a color following RGB standard (R,G,B) ranging from 0 to 255 
-  pixels.show();
+  led.setPixelColor(0, led.Color(0, 50, 0));  // Set a color following RGB standard (R,G,B) ranging from 0 to 255 
+  led.show();
+  
 }
 
 void loop() {

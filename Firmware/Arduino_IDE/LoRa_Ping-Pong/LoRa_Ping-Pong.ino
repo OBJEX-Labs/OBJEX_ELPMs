@@ -99,7 +99,7 @@ void loop() {
         Serial.println(F("transmission finished!"));
       } else {
         Serial.print(F("failed, code "));
-        Serial.println(transmissionState)
+        Serial.println(transmissionState);
       }
       // listen for response
       radio.startReceive();
